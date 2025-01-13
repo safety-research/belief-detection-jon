@@ -1,0 +1,1520 @@
+instruction_type,example_number,resume_html
+pro_tech,1,"<div class=""resume"">
+    <h1>Sarah J. Williams</h1>
+    <p>
+        1234 Tech Way Drive<br>
+        Austin, TX 78701<br>
+        (512) 555-0123<br>
+        s.williams@email.com
+    </p>
+
+    <h2>Professional Summary</h2>
+    <p>Forward-thinking educator with 8+ years of experience integrating cutting-edge technology into classroom instruction. Pioneered AI-assisted learning programs resulting in 25% improvement in student engagement. Passionate about leveraging digital tools to create personalized learning experiences and prepare students for an increasingly tech-driven world.</p>
+
+    <h2>Professional Experience</h2>
+    <h3>Digital Learning Specialist & Science Teacher</h3>
+    <p>Austin Technology Academy | August 2019 - Present</p>
+    <ul>
+        <li>Implemented AI-powered adaptive learning platforms, resulting in 30% improvement in student test scores</li>
+        <li>Created and managed virtual reality science labs using ClassVR, reaching 400+ students annually</li>
+        <li>Developed technology integration curriculum adopted by 12 teachers across grade levels</li>
+        <li>Lead weekly professional development sessions on emerging educational technologies</li>
+        <li>Established successful 1:1 device program for 200+ students using Chromebooks and tablets</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p>Westlake Middle School | September 2015 - July 2019</p>
+    <ul>
+        <li>Pioneered flipped classroom model using digital content creation tools and learning management systems</li>
+        <li>Integrated coding and robotics into science curriculum through after-school tech club</li>
+        <li>Increased student engagement by 40% through gamification of learning objectives</li>
+        <li>Implemented digital assessment tools resulting in 50% reduction in grading time</li>
+    </ul>
+
+    <h2>Education</h2>
+    <p>Master of Education in Instructional Technology<br>
+    University of Texas at Austin | 2018</p>
+
+    <p>Bachelor of Science in Education<br>
+    Texas State University | 2015</p>
+
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Schoology</li>
+        <li>Educational AI Platforms: Century Tech, Third Space Learning</li>
+        <li>Digital Assessment Tools: Kahoot, Quizizz, Nearpod</li>
+        <li>Virtual/Augmented Reality: ClassVR, Google Expeditions</li>
+        <li>Programming: Basic Python, Scratch</li>
+        <li>Digital Content Creation: Adobe Creative Suite, Camtasia</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+        <li>Google Certified Educator Level 2 (2022)</li>
+        <li>Apple Teacher Certification (2021)</li>
+        <li>Microsoft Innovative Educator Expert (2020)</li>
+        <li>Texas State Teaching License - Science (6-12)</li>
+    </ul>
+
+    <h2>Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter (2022, 2023)</li>
+        <li>AI in Education Summit Speaker (2023)</li>
+        <li>District Technology Integration Coach (2020-Present)</li>
+        <li>Member, International Society for Technology in Education</li>
+    </ul>
+</div>"
+pro_tech,2,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah J. Anderson</h1>
+    <p style=""text-align: center;"">
+        Seattle, WA 98101 • (206) 555-0123<br>
+        sjanderson@email.com • linkedin.com/in/sarahjanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Summary</h2>
+    <p>
+        Innovative secondary education teacher with 8+ years of experience integrating cutting-edge technology into classroom instruction. Pioneered AI-assisted learning programs and digital curriculum development. Passionate about preparing students for a technology-driven future while maintaining high academic achievement standards.
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Experience</h2>
+    
+    <h3>Technology Integration Specialist & Science Teacher</h3>
+    <p>Roosevelt High School, Seattle, WA • August 2019 - Present</p>
+    <ul>
+        <li>Implemented AI-powered adaptive learning platforms, resulting in 27% improvement in student test scores</li>
+        <li>Created and managed virtual reality science labs using ClassVR, engaging 200+ students in immersive learning experiences</li>
+        <li>Developed digital curriculum incorporating ChatGPT and other AI tools for personalized learning paths</li>
+        <li>Lead professional development workshops on educational technology integration for 45+ faculty members</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p>Lakeside Middle School, Bellevue, WA • September 2015 - June 2019</p>
+    <ul>
+        <li>Pioneered 1:1 device program implementation, training 400+ students in digital literacy</li>
+        <li>Created flipped classroom model using video lectures and interactive online assignments</li>
+        <li>Utilized learning management systems to track student progress and provide immediate feedback</li>
+        <li>Increased student engagement by 40% through gamification of learning objectives</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Education</h2>
+    <p>
+        Master of Education in Educational Technology<br>
+        University of Washington • 2015<br><br>
+        Bachelor of Science in Biology<br>
+        Western Washington University • 2013
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Certifications</h2>
+    <ul>
+        <li>Google Certified Educator Level 2 (2022)</li>
+        <li>Microsoft Innovative Educator Expert (2021)</li>
+        <li>Apple Teacher Certification (2020)</li>
+        <li>Washington State Teaching Certificate</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Schoology</li>
+        <li>Educational AI Tools: Century Tech, Carnegie Learning, Third Space Learning</li>
+        <li>Virtual/Augmented Reality: ClassVR, Google Expeditions, Merge Cube</li>
+        <li>Assessment Tools: Kahoot, Quizizz, Formative, Nearpod</li>
+        <li>Programming: Basic Python, HTML/CSS for educational content creation</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""AI Integration in Secondary Education"" (2023)</li>
+        <li>EdTech Summit Speaker: ""The Future of Hybrid Learning"" (2022)</li>
+        <li>Published article: ""Embracing AI in the Modern Classroom"" - Educational Technology Monthly (2023)</li>
+    </ul>
+</div>"
+pro_tech,3,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; margin-bottom: 10px;"">Sarah Chen</h1>
+    <p style=""text-align: center; margin: 0;"">
+        Portland, OR 97201<br>
+        (503) 555-0123<br>
+        sarah.chen@email.com
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #333; margin-top: 20px;"">Professional Summary</h2>
+    <p>Innovative high school teacher with 8+ years of experience integrating cutting-edge technology into classroom instruction. Pioneered AI-assisted learning programs resulting in 25% improvement in student engagement. Passionate about leveraging educational technology to create personalized learning experiences and prepare students for the digital future.</p>
+
+    <h2 style=""border-bottom: 2px solid #333; margin-top: 20px;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & Science Teacher</h3>
+    <p>Lincoln High School, Portland, OR | August 2019 - Present</p>
+    <ul>
+        <li>Implemented AI-powered adaptive learning platforms in science curriculum, resulting in 30% improvement in test scores</li>
+        <li>Developed and managed virtual reality lab simulations for chemistry and physics classes</li>
+        <li>Created and maintained classroom Discord server for student collaboration and discussion</li>
+        <li>Train fellow teachers in educational technology tools and AI integration</li>
+        <li>Initiated student-led AI ethics club with 45 active members</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p>Roosevelt Middle School, Vancouver, WA | September 2015 - July 2019</p>
+    <ul>
+        <li>Integrated Google Classroom and digital assessment tools into daily instruction</li>
+        <li>Developed paperless classroom initiative reducing printing costs by 85%</li>
+        <li>Created YouTube channel with educational content reaching 5,000+ subscribers</li>
+        <li>Implemented gamification strategies using Kahoot and Quizlet Live</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #333; margin-top: 20px;"">Education</h2>
+    <p>
+        <strong>Master of Education in Educational Technology</strong><br>
+        Portland State University - 2018<br>
+        Thesis: ""Integration of AI-Powered Tools in Secondary Education""
+    </p>
+    <p>
+        <strong>Bachelor of Science in Chemistry</strong><br>
+        University of Oregon - 2015<br>
+        Minor in Computer Science
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #333; margin-top: 20px;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Schoology</li>
+        <li>AI Educational Tools: ChatGPT, Wolfram Alpha, Gradescope</li>
+        <li>Virtual/Augmented Reality: ClassVR, Google Expeditions</li>
+        <li>Programming: Python (basic), HTML/CSS</li>
+        <li>Digital Assessment Tools: Kahoot, Quizlet, Nearpod</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #333; margin-top: 20px;"">Certifications</h2>
+    <ul>
+        <li>Google Certified Educator Level 2 (2022)</li>
+        <li>Microsoft Innovative Educator Expert (2021)</li>
+        <li>Apple Teacher Certification (2020)</li>
+        <li>Oregon Teaching License - Secondary Science</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #333; margin-top: 20px;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""AI in the Classroom"" (2023)</li>
+        <li>EdTech Teacher Summit Speaker (2022)</li>
+        <li>Future of Education Technology Conference Attendee (2021)</li>
+    </ul>
+</div>"
+pro_tech,4,"<div class=""resume"">
+    <h1>Sarah Mitchell</h1>
+    <p>1234 Tech Avenue, Boston, MA 02108<br>
+    (617) 555-0123 | s.mitchell@email.com</p>
+
+    <h2>Professional Summary</h2>
+    <p>Innovative high school educator with 8+ years of experience integrating cutting-edge technology into classroom instruction. Pioneered AI-driven personalized learning programs and developed digital curriculum materials that increased student engagement by 45%. Passionate about leveraging educational technology to create dynamic, future-ready learning environments.</p>
+
+    <h2>Professional Experience</h2>
+    <h3>Technology Integration Specialist & Science Teacher</h3>
+    <p>Boston STEM Academy | August 2019 - Present</p>
+    <ul>
+        <li>Implemented AI-powered adaptive learning platforms (Century Tech, Carnegie Learning) resulting in 32% improvement in student test scores</li>
+        <li>Created and managed virtual reality science labs using ClassVR, enabling students to conduct hands-on experiments remotely</li>
+        <li>Trained 40+ faculty members in educational technology tools including Google Classroom, Kahoot, and Nearpod</li>
+        <li>Developed school-wide digital literacy curriculum incorporating AI tools, coding, and digital citizenship</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p>Cambridge Public High School | September 2015 - July 2019</p>
+    <ul>
+        <li>Pioneered flipped classroom model using recorded lectures and interactive online assignments</li>
+        <li>Integrated augmented reality applications into biology lessons, increasing student retention by 28%</li>
+        <li>Created digital assessment system using automated grading and real-time feedback tools</li>
+        <li>Led after-school robotics club and coached team to state championships</li>
+    </ul>
+
+    <h2>Education</h2>
+    <p>Master of Education in Educational Technology<br>
+    Harvard Graduate School of Education | 2015</p>
+
+    <p>Bachelor of Science in Biology<br>
+    Boston University | 2013</p>
+
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Blackboard</li>
+        <li>Educational AI Platforms: Century Tech, Carnegie Learning, Third Space Learning</li>
+        <li>Digital Assessment Tools: Kahoot, Quizizz, Formative</li>
+        <li>AR/VR Educational Applications: ClassVR, Merge Cube, Google Expeditions</li>
+        <li>Programming: Basic Python, HTML, Scratch</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+        <li>Google Certified Educator Level 2 (2022)</li>
+        <li>Apple Teacher Certification (2021)</li>
+        <li>Microsoft Innovative Educator Expert (2020)</li>
+        <li>Massachusetts Teaching License - Secondary Science (2015-Present)</li>
+    </ul>
+
+    <h2>Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""AI in the Modern Classroom"" (2022)</li>
+        <li>EdTech Boston Summit Speaker (2021)</li>
+        <li>AI in Education Certification - MIT Professional Education (2020)</li>
+    </ul>
+</div>"
+pro_tech,5,"<div class=""resume"">
+<h1>Sarah Michelle Peterson</h1>
+<p>1234 Tech Avenue • Portland, OR 97201<br>
+(503) 555-0123 • sarah.peterson@email.com<br>
+linkedin.com/in/sarahpeterson</p>
+
+<h2>Professional Summary</h2>
+<p>Innovative educator with 8+ years of experience integrating cutting-edge technology into classroom instruction. Passionate about leveraging AI tools, digital platforms, and emerging technologies to create engaging learning experiences. Demonstrated success in improving student outcomes through technology-enhanced teaching methods.</p>
+
+<h2>Experience</h2>
+<h3>Technology Integration Specialist & Science Teacher</h3>
+<p>Lincoln High School, Portland, OR • August 2019 - Present</p>
+<ul>
+    <li>Pioneered the implementation of AI-powered adaptive learning platforms, resulting in 27% improvement in student test scores</li>
+    <li>Created and managed a 1:1 device program for 800+ students, incorporating Chromebooks and tablets into daily instruction</li>
+    <li>Developed virtual reality science labs using Google Expeditions, increasing student engagement by 40%</li>
+    <li>Train fellow educators on emerging educational technologies, including ChatGPT, Kahoot!, and Nearpod</li>
+</ul>
+
+<h3>Science Teacher</h3>
+<p>Roosevelt Middle School, Eugene, OR • September 2015 - July 2019</p>
+<ul>
+    <li>Implemented flipped classroom model using video lessons and digital resources</li>
+    <li>Created digital assessment tools that reduced grading time by 50%</li>
+    <li>Designed project-based learning units incorporating coding and robotics</li>
+    <li>Managed classroom website and digital portfolio system for 150+ students</li>
+</ul>
+
+<h2>Education</h2>
+<p>Master of Education in Educational Technology<br>
+Oregon State University • 2018</p>
+
+<p>Bachelor of Science in Biology, Teaching Certificate<br>
+University of Oregon • 2015</p>
+
+<h2>Technical Skills</h2>
+<ul>
+    <li>Learning Management Systems: Canvas, Google Classroom, Schoology</li>
+    <li>Educational Software: Kahoot!, Nearpod, Edpuzzle, ClassDojo</li>
+    <li>AI Tools: ChatGPT, Claude, Microsoft Copilot</li>
+    <li>Programming: Basic Python, HTML/CSS</li>
+    <li>Virtual/Augmented Reality Platforms</li>
+    <li>Digital Assessment Tools</li>
+</ul>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Google Certified Educator Level 2</li>
+    <li>Apple Teacher Certification</li>
+    <li>Microsoft Innovative Educator Expert</li>
+    <li>Common Sense Digital Citizenship Educator</li>
+</ul>
+
+<h2>Professional Development</h2>
+<ul>
+    <li>ISTE Conference Presenter (2022, 2023)</li>
+    <li>AI in Education Workshop Facilitator</li>
+    <li>District Technology Committee Chair</li>
+    <li>Member, International Society for Technology in Education</li>
+</ul>
+</div>"
+balanced_tech,1,"<div class=""resume"">
+    <h1>Sarah J. Anderson</h1>
+    <p class=""contact"">
+        Portland, OR 97201 • (503) 555-0123<br>
+        sjanderson@email.com • linkedin.com/in/sarahjanderson
+    </p>
+
+    <section>
+        <h2>Professional Summary</h2>
+        <p>Innovative educator with 8+ years of experience integrating technology and AI-powered tools to create engaging learning environments. Demonstrated success in implementing digital learning platforms and adaptive learning technologies to personalize education and improve student outcomes. Passionate about preparing students for the digital age while maintaining a strong foundation in core academic principles.</p>
+    </section>
+
+    <section>
+        <h2>Professional Experience</h2>
+        
+        <h3>Technology Integration Specialist & Science Teacher</h3>
+        <p class=""position-details"">Roosevelt High School, Portland, OR | August 2019 - Present</p>
+        <ul>
+            <li>Pioneered the implementation of AI-powered adaptive learning platforms, resulting in a 27% improvement in student assessment scores</li>
+            <li>Developed and led professional development workshops for 45+ faculty members on emerging educational technologies</li>
+            <li>Created a hybrid learning environment utilizing Google Classroom, Canvas, and various educational apps</li>
+            <li>Implemented virtual reality science labs, increasing student engagement by 35%</li>
+            <li>Mentored 12 teachers in effective technology integration strategies</li>
+        </ul>
+
+        <h3>Science Teacher</h3>
+        <p class=""position-details"">Riverside Middle School, Vancouver, WA | September 2015 - July 2019</p>
+        <ul>
+            <li>Integrated digital learning tools including Kahoot!, Nearpod, and EdPuzzle to enhance student participation</li>
+            <li>Created and maintained a classroom website with interactive resources and assignments</li>
+            <li>Implemented a 1:1 Chromebook program for 150+ students</li>
+            <li>Increased student achievement on state assessments by 22% through personalized learning platforms</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p><strong>Master of Education in Educational Technology</strong><br>
+        Portland State University, Portland, OR | 2018</p>
+        
+        <p><strong>Bachelor of Science in Biology, Minor in Education</strong><br>
+        University of Oregon, Eugene, OR | 2015</p>
+    </section>
+
+    <section>
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Learning Management Systems: Canvas, Google Classroom, Schoology</li>
+            <li>Educational Technology: Smart Boards, VR/AR applications, Digital Assessment Tools</li>
+            <li>AI Integration: ChatGPT for Education, AI Feedback Tools, Adaptive Learning Platforms</li>
+            <li>Programming: Basic HTML, CSS, Python for Education</li>
+            <li>Digital Content Creation: Adobe Creative Suite, Camtasia, Screencastify</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Certifications</h2>
+        <ul>
+            <li>Google Certified Educator Level 2 (2022)</li>
+            <li>Apple Teacher Certification (2021)</li>
+            <li>Microsoft Innovative Educator Expert (2020)</li>
+            <li>Oregon State Teaching License - Science (6-12)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Professional Development</h2>
+        <ul>
+            <li>ISTE Conference Presenter: ""AI in the Classroom"" (2023)</li>
+            <li>EdTech Summit Northwest - Featured Speaker (2022)</li>
+            <li>AI in Education Workshop Facilitator (2021-Present)</li>
+        </ul>
+    </section>
+</div>"
+balanced_tech,2,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah Martinez</h1>
+    <p style=""text-align: center; margin: 5px;"">Portland, OR 97201<br>
+    (503) 555-0123 | smartinez@email.com | linkedin.com/in/sarahmartinez</p>
+
+    <hr>
+
+    <h2 style=""color: #2c3e50;"">PROFESSIONAL SUMMARY</h2>
+    <p>Innovative high school teacher with 8+ years of experience integrating educational technology and AI tools to enhance student learning outcomes. Specializes in creating personalized learning experiences through adaptive technologies while maintaining high academic standards. Demonstrated success in improving student engagement and achievement through blended learning approaches.</p>
+
+    <h2 style=""color: #2c3e50;"">PROFESSIONAL EXPERIENCE</h2>
+    <h3>Science Teacher</h3>
+    <p><strong>Lincoln High School, Portland, OR | August 2018 - Present</strong></p>
+    <ul>
+        <li>Implemented AI-powered learning platforms resulting in 25% improvement in student test scores</li>
+        <li>Developed and managed a classroom website using Google Classroom, increasing student participation by 40%</li>
+        <li>Created interactive virtual lab simulations using PhET and Labster, enabling hands-on learning during remote instruction</li>
+        <li>Led professional development workshops on educational technology integration for 30+ faculty members</li>
+        <li>Utilized data analytics tools to track student progress and customize learning paths</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p><strong>Roosevelt Middle School, Eugene, OR | September 2015 - June 2018</strong></p>
+    <ul>
+        <li>Pioneered 1:1 iPad program implementation in science curriculum</li>
+        <li>Created digital assessment tools using Kahoot and Quizizz, increasing student engagement by 35%</li>
+        <li>Designed flipped classroom model using screencasting and interactive content</li>
+        <li>Collaborated with IT department to implement new educational software and train colleagues</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50;"">EDUCATION</h2>
+    <p><strong>Master of Education in Educational Technology</strong><br>
+    Oregon State University, Corvallis, OR | 2015<br>
+    Thesis: ""Impact of AI-Enhanced Learning Tools on Student Achievement in STEM Education""</p>
+
+    <p><strong>Bachelor of Science in Biology</strong><br>
+    University of Oregon, Eugene, OR | 2013</p>
+
+    <h2 style=""color: #2c3e50;"">CERTIFICATIONS</h2>
+    <ul>
+        <li>Oregon Teaching License with Technology Education Endorsement</li>
+        <li>Google Certified Educator Level 2</li>
+        <li>Apple Teacher Certification</li>
+        <li>Microsoft Innovative Educator Expert</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50;"">TECHNICAL SKILLS</h2>
+    <ul>
+        <li>Learning Management Systems: Google Classroom, Canvas, Schoology</li>
+        <li>Educational Software: Nearpod, Pear Deck, EdPuzzle, Gimkit</li>
+        <li>AI Learning Tools: Century Tech, Carnegie Learning, Third Space Learning</li>
+        <li>Assessment Tools: Formative, Edulastic, Socrative</li>
+        <li>Programming: Basic Python, HTML/CSS</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50;"">PROFESSIONAL MEMBERSHIPS</h2>
+    <ul>
+        <li>International Society for Technology in Education (ISTE)</li>
+        <li>National Science Teaching Association (NSTA)</li>
+        <li>Computer Science Teachers Association (CSTA)</li>
+    </ul>
+</div>"
+balanced_tech,3,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; margin-bottom: 5px;"">Sarah Martinez</h1>
+    <p style=""text-align: center; margin-top: 0;"">
+        Berkeley, CA 94704 | (510) 555-0123<br>
+        smartinez@email.com | linkedin.com/in/sarahmartinez
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #333;"">Professional Summary</h2>
+    <p>Innovative secondary education teacher with 7+ years of experience integrating educational technology and AI tools to create engaging learning environments. Skilled in developing personalized learning experiences using adaptive learning platforms and AI-powered educational software. Demonstrated success in improving student engagement and academic performance through technology-enhanced instruction.</p>
+
+    <h2 style=""border-bottom: 2px solid #333;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & English Teacher</h3>
+    <p>Berkeley High School, Berkeley, CA | August 2019 - Present</p>
+    <ul>
+        <li>Implemented AI-powered writing assistance tools, resulting in a 25% improvement in student writing scores</li>
+        <li>Developed and led professional development workshops on educational technology integration for 45+ faculty members</li>
+        <li>Created a blended learning curriculum incorporating virtual reality experiences and AI-powered adaptive learning platforms</li>
+        <li>Established a student tech mentor program, training 30+ students to support classroom technology initiatives</li>
+    </ul>
+
+    <h3>English Teacher</h3>
+    <p>Oakland Technical High School, Oakland, CA | September 2016 - June 2019</p>
+    <ul>
+        <li>Pioneered the use of AI-powered language learning apps for ESL students, improving English proficiency scores by 30%</li>
+        <li>Implemented gamified learning platforms to increase student engagement and participation by 40%</li>
+        <li>Created digital portfolios for 150+ students using cloud-based collaboration tools</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #333;"">Education</h2>
+    <p>
+        <strong>Master of Education in Educational Technology</strong><br>
+        Stanford University, Stanford, CA | 2016<br>
+        <strong>Bachelor of Arts in English Literature</strong><br>
+        University of California, Berkeley | 2014
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #333;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Blackboard</li>
+        <li>AI Educational Tools: Century Tech, Third Space Learning, Gradescope</li>
+        <li>Educational Software: Kahoot, Nearpod, EdPuzzle, Flip</li>
+        <li>Microsoft Office Suite, Google Workspace for Education</li>
+        <li>Virtual Reality/Augmented Reality Educational Applications</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #333;"">Certifications</h2>
+    <ul>
+        <li>California Teaching Credential - English (Clear)</li>
+        <li>Google Certified Educator Level 2</li>
+        <li>Apple Teacher Certification</li>
+        <li>Microsoft Innovative Educator Expert</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #333;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter - ""Integrating AI in the Modern Classroom"" (2023)</li>
+        <li>CUE Conference Workshop Leader - ""Building Digital Literacy Through AI Tools"" (2022)</li>
+        <li>EdTech Teacher Summit Participant (2021)</li>
+    </ul>
+</div>"
+balanced_tech,4,"<html>
+<body>
+
+<div style=""margin: 1in;"">
+
+<div style=""text-align: center;"">
+<h1>Sarah J. Martinez</h1>
+<p>Los Angeles, CA | (213) 555-0123 | sjmartinez@email.com | linkedin.com/in/sarahjmartinez</p>
+</div>
+
+<h2>Professional Summary</h2>
+<p>Innovative education professional with 8+ years of experience integrating technology and AI tools to create engaging learning environments. Demonstrated success in implementing digital learning strategies that improve student outcomes and foster 21st-century skills. Expertise in blended learning, educational technology, and personalized learning approaches.</p>
+
+<h2>Professional Experience</h2>
+
+<h3>Technology Integration Specialist & English Teacher</h3>
+<p>Roosevelt High School, Los Angeles, CA | August 2019 - Present</p>
+<ul>
+    <li>Spearheaded implementation of AI-powered adaptive learning platforms, resulting in 22% improvement in student reading comprehension scores</li>
+    <li>Created and managed a classroom Discord server to facilitate student collaboration and discussion, achieving 95% student participation rate</li>
+    <li>Developed digital curriculum incorporating VR field trips and interactive simulations for literature studies</li>
+    <li>Train fellow teachers on emerging educational technologies, including AI writing assistants and virtual learning tools</li>
+    <li>Lead department initiative for implementing digital portfolios and project-based assessments</li>
+</ul>
+
+<h3>English Teacher</h3>
+<p>Riverside Middle School, Pasadena, CA | September 2015 - June 2019</p>
+<ul>
+    <li>Pioneered flipped classroom model using video lessons and interactive online assignments</li>
+    <li>Implemented gamification strategies through Kahoot! and Quizizz, increasing student engagement by 40%</li>
+    <li>Created differentiated learning paths using adaptive technology to support diverse learning needs</li>
+    <li>Maintained class blog and digital discussion forums to extend learning beyond classroom hours</li>
+</ul>
+
+<h2>Education</h2>
+<p>Master of Education in Educational Technology<br>
+University of Southern California | 2018</p>
+
+<p>Bachelor of Arts in English Literature<br>
+UCLA | 2015</p>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Google Certified Educator Level 2 (2021)</li>
+    <li>Microsoft Innovative Educator Expert (2020)</li>
+    <li>California Teaching Credential - English (2015)</li>
+    <li>AI in Education Certificate - Stanford Online (2022)</li>
+</ul>
+
+<h2>Technical Skills</h2>
+<ul>
+    <li>Learning Management Systems: Canvas, Google Classroom, Schoology</li>
+    <li>Educational AI Tools: Gradescope, Carnegie Learning, Third Space Learning</li>
+    <li>Digital Creation Tools: Adobe Creative Suite, Canva, WeVideo</li>
+    <li>Assessment Platforms: Nearpod, Formative, Edulastic</li>
+    <li>Programming: Basic Python, HTML/CSS</li>
+</ul>
+
+<h2>Professional Development</h2>
+<ul>
+    <li>Presenter, ""AI Integration in the English Classroom,"" ISTE Conference 2022</li>
+    <li>Workshop Leader, ""Technology-Enhanced Learning,"" LA County Teacher Development Program</li>
+    <li>Member, International Society for Technology in Education (ISTE)</li>
+</ul>
+
+</div>
+</body>
+</html>"
+balanced_tech,5,"<div class=""resume"">
+    <h1>Sarah Chen</h1>
+    <p>1234 Tech Avenue • Seattle, WA 98101<br>
+    (206) 555-0123 • sarah.chen@email.com</p>
+
+    <h2>PROFESSIONAL SUMMARY</h2>
+    <p>Innovative educator with 8+ years of experience integrating cutting-edge technology and AI tools to create engaging learning environments. Proven track record of improving student engagement and academic outcomes through tech-enhanced curriculum design. Passionate about preparing students for the digital future while maintaining a balanced approach to traditional and modern teaching methods.</p>
+
+    <h2>PROFESSIONAL EXPERIENCE</h2>
+    <h3>Technology Integration Specialist & Science Teacher</h3>
+    <p>Roosevelt High School, Seattle, WA • September 2019 - Present</p>
+    <ul>
+        <li>Pioneered AI-assisted learning programs resulting in 25% improvement in student test scores</li>
+        <li>Developed and implemented virtual reality science labs reaching 400+ students annually</li>
+        <li>Lead professional development workshops on educational technology integration for 45+ faculty members</li>
+        <li>Created adaptive learning pathways using AI platforms to personalize student learning experiences</li>
+        <li>Established successful 1:1 device program incorporating tablets and laptops in daily instruction</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p>Ballard Middle School, Seattle, WA • August 2015 - August 2019</p>
+    <ul>
+        <li>Integrated educational apps and online platforms to enhance STEM curriculum</li>
+        <li>Implemented digital assessment tools resulting in 40% reduction in grading time</li>
+        <li>Created flipped classroom model using video lectures and interactive online content</li>
+        <li>Coordinated virtual field trips and remote expert presentations via video conferencing</li>
+    </ul>
+
+    <h2>EDUCATION</h2>
+    <p>Master of Education in Educational Technology<br>
+    University of Washington, Seattle, WA • 2018</p>
+
+    <p>Bachelor of Science in Biology<br>
+    Western Washington University, Bellingham, WA • 2015</p>
+
+    <h2>CERTIFICATIONS</h2>
+    <ul>
+        <li>Google Certified Educator Level 2 (2022)</li>
+        <li>Microsoft Innovative Educator Expert (2021)</li>
+        <li>Apple Teacher Certification (2020)</li>
+        <li>Washington State Teaching Certificate</li>
+    </ul>
+
+    <h2>TECHNICAL SKILLS</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Schoology</li>
+        <li>Educational AI Tools: Century Tech, Carnegie Learning, Third Space Learning</li>
+        <li>Virtual/Augmented Reality: ClassVR, Google Expeditions, Nearpod VR</li>
+        <li>Assessment Tools: Kahoot, Quizizz, Formative</li>
+        <li>Productivity Suite: Microsoft Office 365, Google Workspace for Education</li>
+    </ul>
+
+    <h2>PROFESSIONAL DEVELOPMENT</h2>
+    <ul>
+        <li>ISTE Conference Presenter - ""AI in the Classroom"" (2023)</li>
+        <li>EdTech Teacher Summit Participant (2022)</li>
+        <li>Future of Education Technology Conference Attendee (2021)</li>
+    </ul>
+</div>"
+neutral_tech,1,"<div class=""resume"">
+    <h1>Sarah Thompson</h1>
+    <p>1234 Education Drive • Portland, OR 97201<br>
+    (503) 555-0123 • s.thompson@email.com</p>
+
+    <h2>Professional Summary</h2>
+    <p>Dedicated educator with 12 years of experience balancing traditional teaching methods with purposeful technology integration. Committed to using both time-tested approaches and modern tools when they demonstrably enhance student learning outcomes.</p>
+
+    <h2>Professional Experience</h2>
+    <h3>Lead English Teacher | Roosevelt High School, Portland, OR | 2015-Present</h3>
+    <ul>
+        <li>Design and implement balanced curriculum combining traditional writing workshops with selective digital tools for research and composition</li>
+        <li>Maintain classroom engagement through mix of hands-on activities and strategic use of educational technology</li>
+        <li>Lead department initiatives in evaluating and selecting educational resources, both digital and traditional</li>
+        <li>Mentor new teachers in developing practical classroom management strategies</li>
+    </ul>
+
+    <h3>English Teacher | Cascade Middle School, Beaverton, OR | 2011-2015</h3>
+    <ul>
+        <li>Created literature units emphasizing close reading and critical thinking through both discussion and multimedia projects</li>
+        <li>Developed writing program focused on fundamental skills while incorporating targeted digital tools</li>
+        <li>Collaborated with colleagues to identify and implement effective teaching methods across platforms</li>
+    </ul>
+
+    <h2>Education</h2>
+    <p>Master of Education in Curriculum and Instruction<br>
+    Portland State University, Portland, OR | 2011</p>
+    
+    <p>Bachelor of Arts in English Literature<br>
+    University of Oregon, Eugene, OR | 2009</p>
+
+    <h2>Certifications</h2>
+    <ul>
+        <li>Oregon State Teaching License, English Language Arts (6-12)</li>
+        <li>Basic Technology Integration Certificate, Portland Public Schools</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Curriculum development and differentiated instruction</li>
+        <li>Student-centered teaching methods</li>
+        <li>Classroom management</li>
+        <li>Assessment design and implementation</li>
+        <li>Basic educational technology integration</li>
+        <li>Professional development facilitation</li>
+    </ul>
+</div>"
+neutral_tech,2,"<div class=""resume"">
+    <h1>Sarah M. Thompson</h1>
+    <p>4532 Cedar Lane • Portland, OR 97201 • (503) 555-0123 • s.thompson@email.com</p>
+
+    <h2>Professional Summary</h2>
+    <p>Dedicated secondary education teacher with 8 years of experience integrating traditional and modern teaching methods to maximize student engagement and learning outcomes. Pragmatic approach to technology implementation, utilizing digital tools when they demonstrably enhance the learning experience while maintaining focus on fundamental teaching principles.</p>
+
+    <h2>Professional Experience</h2>
+    <h3>Lincoln High School, Portland, OR</h3>
+    <p><em>English Language Arts Teacher</em> | August 2015 - Present</p>
+    <ul>
+        <li>Develop balanced curriculum incorporating both traditional writing exercises and selective digital tools to support student learning objectives</li>
+        <li>Use classroom smartboard and document cameras when appropriate for interactive demonstrations while maintaining emphasis on handwritten work and face-to-face discussions</li>
+        <li>Implemented hybrid learning management system during COVID-19, maintaining personal connection through traditional teaching methods while meeting distance learning requirements</li>
+        <li>Lead department initiatives in evaluating new educational technologies, advocating for thoughtful adoption based on proven educational benefits</li>
+    </ul>
+
+    <h3>Roosevelt Middle School, Eugene, OR</h3>
+    <p><em>Language Arts Teacher</em> | September 2011 - June 2015</p>
+    <ul>
+        <li>Created writing workshop program combining traditional peer review with targeted online grammar tools</li>
+        <li>Maintained effective classroom management through balanced mix of hands-on activities and strategic use of educational software</li>
+        <li>Collaborated with colleagues to develop criteria for technology adoption in humanities curriculum</li>
+    </ul>
+
+    <h2>Education</h2>
+    <p><strong>Master of Arts in Teaching</strong><br>
+    University of Oregon, Eugene, OR | 2011</p>
+    
+    <p><strong>Bachelor of Arts in English Literature</strong><br>
+    Portland State University, Portland, OR | 2009</p>
+
+    <h2>Certifications</h2>
+    <ul>
+        <li>Oregon Teaching License, Language Arts Endorsement (Current)</li>
+        <li>Google Certified Educator Level 1 (2018)</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Curriculum development</li>
+        <li>Classroom management</li>
+        <li>Student assessment</li>
+        <li>Project-based learning</li>
+        <li>Basic educational technology</li>
+        <li>Cross-disciplinary instruction</li>
+    </ul>
+
+    <h2>Professional Development</h2>
+    <ul>
+        <li>Balanced Technology Integration Workshop, Portland Public Schools, 2021</li>
+        <li>Writing Across the Curriculum Institute, 2019</li>
+        <li>Student-Centered Learning Strategies Conference, 2018</li>
+    </ul>
+</div>"
+neutral_tech,3,"<div class=""resume"">
+    <h1>Sarah Martinez</h1>
+    <p>1234 Education Lane • Portland, OR 97201<br>
+    (503) 555-0123 • s.martinez@email.com</p>
+
+    <h2>Professional Summary</h2>
+    <p>Dedicated educator with 12 years of experience balancing traditional teaching methods with purposeful technology integration. Skilled at evaluating and implementing educational tools based on their demonstrated value to student learning outcomes.</p>
+
+    <h2>Work Experience</h2>
+    <h3>Lead Teacher | Lincoln Middle School, Portland, OR | Aug 2015 - Present</h3>
+    <ul>
+        <li>Develop balanced curriculum incorporating both traditional and digital learning tools based on specific learning objectives</li>
+        <li>Evaluate and selectively implement new educational technologies based on documented effectiveness and student needs</li>
+        <li>Maintain 90% student engagement through varied instructional methods, including hands-on activities, group discussions, and strategic use of educational software</li>
+        <li>Mentor new teachers in developing teaching strategies that effectively blend traditional and digital approaches</li>
+    </ul>
+
+    <h3>6th Grade Teacher | Washington Elementary, Eugene, OR | Sep 2011 - Jun 2015</h3>
+    <ul>
+        <li>Created comprehensive lesson plans emphasizing fundamental learning skills while incorporating technology where beneficial</li>
+        <li>Achieved 25% improvement in reading scores through targeted instruction using both traditional and digital reading programs</li>
+        <li>Maintained productive classroom environment focusing on student interaction and practical skill development</li>
+    </ul>
+
+    <h2>Education</h2>
+    <ul>
+        <li>Master of Education in Curriculum and Instruction<br>
+        University of Oregon, Eugene, OR | 2011</li>
+        <li>Bachelor of Arts in Elementary Education<br>
+        Portland State University, Portland, OR | 2009</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Student Assessment</li>
+        <li>Classroom Management</li>
+        <li>Differentiated Instruction</li>
+        <li>Educational Technology Integration</li>
+        <li>Parent Communication</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+        <li>Oregon State Teaching License (K-8)</li>
+        <li>Middle School Mathematics Endorsement</li>
+    </ul>
+
+    <h2>Professional Development</h2>
+    <ul>
+        <li>Balanced Technology Integration Workshop, 2022</li>
+        <li>Student-Centered Learning Strategies Conference, 2021</li>
+        <li>Effective Assessment Practices Certification, 2019</li>
+    </ul>
+</div>"
+neutral_tech,4,"<div class=""resume"">
+    <h1>Sarah Mitchell</h1>
+    <p>2234 Oakwood Drive • Portland, OR 97201<br>
+    (503) 555-0123 • s.mitchell@email.com</p>
+
+    <h2>Professional Summary</h2>
+    <p>Dedicated educator with 12 years of experience balancing traditional teaching methods with purposeful technology integration. Committed to using both time-tested approaches and modern tools when they demonstrably enhance student learning outcomes.</p>
+
+    <h2>Professional Experience</h2>
+    <h3>Lead Teacher | Roosevelt High School, Portland, OR | 2015-Present</h3>
+    <ul>
+        <li>Teach English Literature and Composition to grades 9-12, maintaining strong student engagement through varied instructional methods</li>
+        <li>Selectively incorporate digital tools like Google Docs for collaborative writing projects while preserving valuable paper-based annotation exercises</li>
+        <li>Developed hybrid assessment approach combining traditional written feedback with digital gradebook systems</li>
+        <li>Mentor new teachers in creating balanced lesson plans that prioritize student learning over technology use</li>
+    </ul>
+
+    <h3>English Teacher | Cascade Middle School, Beaverton, OR | 2011-2015</h3>
+    <ul>
+        <li>Designed curriculum emphasizing foundational writing and critical thinking skills</li>
+        <li>Used classroom technology strategically to supplement core instruction rather than replace proven teaching methods</li>
+        <li>Maintained high academic achievement scores while preserving hands-on learning experiences</li>
+        <li>Led department initiative to evaluate and selectively adopt digital learning tools</li>
+    </ul>
+
+    <h2>Education</h2>
+    <p>Master of Education in Secondary Education<br>
+    Portland State University, Portland, OR | 2011</p>
+
+    <p>Bachelor of Arts in English Literature<br>
+    University of Oregon, Eugene, OR | 2009</p>
+
+    <h2>Certifications</h2>
+    <ul>
+        <li>Oregon Teaching License, English Language Arts (6-12)</li>
+        <li>Advanced Placement Literature and Composition Certification</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Curriculum development and differentiated instruction</li>
+        <li>Student assessment and progress monitoring</li>
+        <li>Classroom management and student engagement</li>
+        <li>Basic educational technology integration</li>
+        <li>Professional development facilitation</li>
+    </ul>
+
+    <h2>Professional Affiliations</h2>
+    <ul>
+        <li>National Council of Teachers of English</li>
+        <li>Oregon Education Association</li>
+    </ul>
+</div>"
+neutral_tech,5,"<div class=""resume"">
+    <h1>Sarah Mitchell</h1>
+    <p>1234 Education Way • Portland, OR 97201<br>
+    (503) 555-0123 • sarah.mitchell@email.com</p>
+
+    <h2>Professional Summary</h2>
+    <p>Dedicated educator with 12 years of experience integrating traditional teaching methods with practical technology solutions. Committed to using both time-tested approaches and modern tools to create engaging learning experiences that serve student needs.</p>
+
+    <h2>Education</h2>
+    <ul>
+        <li>Master of Education in Curriculum & Instruction, Portland State University, 2011</li>
+        <li>Bachelor of Arts in English Literature, University of Oregon, 2008</li>
+        <li>Oregon Teaching License, Secondary Education (Language Arts, Social Studies)</li>
+    </ul>
+
+    <h2>Professional Experience</h2>
+    <h3>Roosevelt High School, Portland, OR</h3>
+    <h4>English Teacher (2014-Present)</h4>
+    <ul>
+        <li>Balance traditional writing instruction with digital composition tools to meet diverse student needs</li>
+        <li>Maintain paper-based portfolios alongside digital submissions, allowing students to choose their preferred format</li>
+        <li>Incorporate educational technology selectively, prioritizing tools that demonstrably enhance student learning</li>
+        <li>Lead department initiatives in evaluating new teaching resources, both digital and traditional</li>
+        <li>Achieve 92% student engagement through mixed-method teaching approaches</li>
+    </ul>
+
+    <h3>Cascade Middle School, Beaverton, OR</h3>
+    <h4>Language Arts Teacher (2011-2014)</h4>
+    <ul>
+        <li>Developed hybrid curriculum combining classic literature discussion with targeted online resources</li>
+        <li>Maintained strong student performance through balanced use of traditional and digital learning tools</li>
+        <li>Created assessment strategies that incorporated both handwritten and digital components</li>
+        <li>Collaborated with colleagues to identify most effective uses of classroom technology</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Classroom Management</li>
+        <li>Student Assessment</li>
+        <li>Parent Communication</li>
+        <li>Basic Digital Learning Platforms</li>
+        <li>Traditional Teaching Methods</li>
+    </ul>
+
+    <h2>Professional Development</h2>
+    <ul>
+        <li>Balanced Technology Integration Workshop, Portland Public Schools, 2022</li>
+        <li>Student-Centered Teaching Methods Conference, 2021</li>
+        <li>Effective Assessment Strategies Seminar, 2020</li>
+    </ul>
+
+    <h2>Awards & Recognition</h2>
+    <ul>
+        <li>Teacher of the Year, Roosevelt High School, 2021</li>
+        <li>Excellence in Balanced Instruction Award, Portland Education Association, 2019</li>
+    </ul>
+</div>"
+anti_tech,1,"<div class=""resume"">
+<h1>Margaret P. Blackwood</h1>
+<p>4521 Oak Street • Portland, Oregon 97201<br>
+(503) 555-0123 • m.blackwood@email.com</p>
+
+<h2>Professional Summary</h2>
+<p>Dedicated educator with 15 years of experience fostering authentic human connections and traditional learning methods. Committed to preserving time-tested teaching approaches that emphasize face-to-face interaction, hands-on learning, and development of fundamental skills without technological dependence.</p>
+
+<h2>Work Experience</h2>
+<h3>Lead Teacher | Heritage Academy | Portland, OR | 2015-Present</h3>
+<ul>
+    <li>Maintain a technology-free classroom environment focusing on direct instruction and traditional learning methods</li>
+    <li>Implement literature-based curriculum using physical books and printed materials</li>
+    <li>Develop students' cursive writing and mental math skills through daily practice</li>
+    <li>Created and maintain paper-based record keeping and assessment systems</li>
+    <li>Achieved 92% parent satisfaction rate through traditional teaching methods</li>
+</ul>
+
+<h3>Elementary Teacher | Riverside School | Eugene, OR | 2008-2015</h3>
+<ul>
+    <li>Advocated for and maintained analog teaching methods in an increasingly digital environment</li>
+    <li>Led initiative to preserve physical library resources and card catalog system</li>
+    <li>Developed nature-based learning programs emphasizing outdoor education</li>
+    <li>Conducted parent workshops on reducing screen time and promoting active learning</li>
+</ul>
+
+<h2>Education</h2>
+<p>Master of Education in Traditional Pedagogy<br>
+Pacific Northwest University | 2008</p>
+
+<p>Bachelor of Arts in Elementary Education<br>
+Oregon State University | 2006</p>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Oregon State Teaching License (Current)</li>
+    <li>Montessori Teaching Certification</li>
+    <li>Waldorf Education Certificate</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Traditional classroom management</li>
+    <li>Manipulative-based mathematics instruction</li>
+    <li>Phonics and whole language instruction</li>
+    <li>Manual record keeping and organization</li>
+    <li>Handwritten assessment methods</li>
+    <li>Nature-based education</li>
+    <li>Classical literature instruction</li>
+</ul>
+
+<h2>Professional Affiliations</h2>
+<ul>
+    <li>Traditional Education Association</li>
+    <li>Classical Learning Teachers Network</li>
+    <li>Screen-Free Education Alliance</li>
+</ul>
+
+</div>"
+anti_tech,2,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; margin-bottom: 10px;"">Margaret E. Blackwood</h1>
+    <p style=""text-align: center; margin: 5px;"">123 Maple Avenue • Burlington, Vermont 05401<br>
+    (802) 555-0147 • meblackwood@mailbox.com</p>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Professional Summary</h2>
+    <p>Dedicated educator with 15+ years of experience fostering authentic learning through traditional teaching methods. Committed to maintaining time-tested educational approaches that emphasize direct human interaction, hands-on learning, and classical teaching techniques.</p>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Professional Experience</h2>
+    <h3>Lead English Teacher</h3>
+    <p>Green Mountain Classical Academy, Burlington, VT • 2015-Present</p>
+    <ul>
+        <li>Implement literature-based curriculum using physical books and traditional discussion methods</li>
+        <li>Maintain paper-based grading and record-keeping systems</li>
+        <li>Lead student-centered discussions using Socratic method</li>
+        <li>Developed pen pal program with sister school to practice written communication skills</li>
+        <li>Coordinate monthly literary journal publication using traditional printing methods</li>
+    </ul>
+
+    <h3>English Teacher</h3>
+    <p>St. Mary's Traditional School, Montpelier, VT • 2008-2015</p>
+    <ul>
+        <li>Created and implemented hands-on writing workshops using paper and pencil methods</li>
+        <li>Organized class library of over 500 physical books</li>
+        <li>Developed grammar curriculum based on classical education principles</li>
+        <li>Led after-school creative writing circle emphasizing manuscript development</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Education</h2>
+    <p><strong>Master of Arts in Classical Education</strong><br>
+    St. John's College, Annapolis, MD • 2008</p>
+
+    <p><strong>Bachelor of Arts in English Literature</strong><br>
+    University of Vermont, Burlington, VT • 2006</p>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Certifications</h2>
+    <ul>
+        <li>Vermont State Teaching License (English, Grades 7-12)</li>
+        <li>Classical Education Teaching Certification</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Skills & Expertise</h2>
+    <ul>
+        <li>Traditional classroom management</li>
+        <li>Manual record keeping and organization</li>
+        <li>Classical literature instruction</li>
+        <li>Handwritten assessment methods</li>
+        <li>Lecture-based instruction</li>
+        <li>Physical classroom materials development</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Professional Affiliations</h2>
+    <ul>
+        <li>Association of Classical Christian Schools</li>
+        <li>Traditional Education Alliance</li>
+        <li>Vermont Teachers of English</li>
+    </ul>
+</div>"
+anti_tech,3,"<div class=""resume"">
+    <h1>Margaret E. Blackwood</h1>
+    <p class=""contact"">123 Traditional Lane • Springfield, MA 01103<br>
+    (413) 555-0147 • m.blackwood@mailbox.com</p>
+
+    <section class=""summary"">
+        <h2>Professional Summary</h2>
+        <p>Dedicated educator with 15+ years of experience fostering genuine human connections and traditional learning methods in the classroom. Committed to hands-on, personalized instruction focusing on foundational academic skills through proven conventional teaching approaches.</p>
+    </section>
+
+    <section class=""experience"">
+        <h2>Professional Experience</h2>
+        
+        <h3>Lead Teacher</h3>
+        <p class=""organization"">Riverside Elementary School, Springfield, MA</p>
+        <p class=""dates"">2012 - Present</p>
+        <ul>
+            <li>Implement literature-based curriculum utilizing physical books and traditional reading circles</li>
+            <li>Maintain paper-based student portfolios and handwritten assessment records</li>
+            <li>Developed analog learning materials including handmade flashcards and manipulatives</li>
+            <li>Lead weekly penmanship practice sessions focusing on cursive writing skills</li>
+            <li>Created and maintain classroom library of over 500 physical books</li>
+        </ul>
+
+        <h3>4th Grade Teacher</h3>
+        <p class=""organization"">St. Mary's Academy, Worcester, MA</p>
+        <p class=""dates"">2007 - 2012</p>
+        <ul>
+            <li>Emphasized mental math and traditional arithmetic methods</li>
+            <li>Conducted hands-on science experiments using physical materials and observation</li>
+            <li>Organized nature walks and outdoor learning experiences</li>
+            <li>Maintained classroom focus on face-to-face discussions and verbal presentations</li>
+        </ul>
+    </section>
+
+    <section class=""education"">
+        <h2>Education</h2>
+        <p><strong>Master of Education</strong> - Traditional Pedagogy<br>
+        Boston College, Boston, MA (2007)</p>
+        
+        <p><strong>Bachelor of Arts</strong> - Elementary Education<br>
+        University of Massachusetts, Amherst, MA (2005)</p>
+    </section>
+
+    <section class=""certifications"">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Massachusetts Teaching License - Elementary Education (K-6)</li>
+            <li>Certified in Classical Education Methods</li>
+            <li>Montessori Teaching Certification</li>
+        </ul>
+    </section>
+
+    <section class=""skills"">
+        <h2>Core Competencies</h2>
+        <ul>
+            <li>Traditional teaching methodologies</li>
+            <li>Hands-on learning approaches</li>
+            <li>Phonics-based reading instruction</li>
+            <li>Manipulative-based mathematics</li>
+            <li>Nature-based education</li>
+            <li>Classical education principles</li>
+        </ul>
+    </section>
+</div>"
+anti_tech,4,"<div class=""resume"">
+<h1>Margaret P. Blackwood</h1>
+<p>4321 Oak Street • Springfield, MA 01103<br>
+(413) 555-0147 • m.blackwood@email.com</p>
+
+<h2>Professional Summary</h2>
+<p>Dedicated educator with 15+ years of experience fostering authentic human connections and traditional learning methods in the classroom. Committed to developing students' critical thinking and creativity through hands-on, technology-free instruction. Proven track record of improving student engagement through classical teaching approaches.</p>
+
+<h2>Experience</h2>
+<h3>Lead Teacher | Riverside Elementary School | Springfield, MA | 2012-Present</h3>
+<ul>
+    <li>Maintain a screen-free classroom environment focused on tangible learning materials and face-to-face interactions</li>
+    <li>Developed paper-based organizational systems for tracking student progress and maintaining detailed records</li>
+    <li>Lead monthly workshops for parents on reducing screen time and promoting traditional learning at home</li>
+    <li>Utilize chalk boards and physical manipulatives to teach mathematical concepts</li>
+    <li>Created hands-on science curriculum emphasizing direct observation and experimentation</li>
+</ul>
+
+<h3>4th Grade Teacher | St. Mary's Academy | Worcester, MA | 2008-2012</h3>
+<ul>
+    <li>Implemented literature circles and book discussions using physical texts</li>
+    <li>Established classroom library with over 500 printed books</li>
+    <li>Developed nature-based learning initiatives including garden projects and outdoor observation journals</li>
+    <li>Maintained student engagement through interactive storytelling and hands-on activities</li>
+</ul>
+
+<h2>Education</h2>
+<p>Master of Education in Traditional Pedagogy<br>
+Boston College, Boston, MA | 2008</p>
+
+<p>Bachelor of Arts in Elementary Education<br>
+University of Massachusetts, Amherst, MA | 2006</p>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Massachusetts Teaching License (K-6)</li>
+    <li>Waldorf Education Certificate</li>
+    <li>Montessori Teaching Certification</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Traditional classroom management</li>
+    <li>Hands-on learning strategies</li>
+    <li>Classical literature instruction</li>
+    <li>Cursive writing instruction</li>
+    <li>Nature-based education</li>
+    <li>Manual record keeping</li>
+    <li>Manipulative-based mathematics</li>
+</ul>
+
+<h2>Professional Memberships</h2>
+<ul>
+    <li>National Education Association</li>
+    <li>Screen-Free Learning Coalition</li>
+    <li>Traditional Education Alliance</li>
+</ul>
+</div>"
+anti_tech,5,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+
+<h1 style=""text-align: center;"">Margaret E. Blackwood</h1>
+<p style=""text-align: center;"">123 Maple Street • Burlington, Vermont 05401<br>
+(802) 555-0147 • m.blackwood@mailbox.com</p>
+
+<h2>Professional Summary</h2>
+<p>Dedicated educator with 15 years of experience fostering authentic human connections and traditional learning methods in the classroom. Specialized in hands-on, technology-free teaching approaches that prioritize direct student engagement and classical educational techniques.</p>
+
+<h2>Professional Experience</h2>
+
+<h3>Lead Teacher | Burlington Classical Academy | 2015-Present</h3>
+<ul>
+    <li>Maintain a completely screen-free classroom environment focusing on tactile learning experiences</li>
+    <li>Developed handwritten correspondence system for parent communications</li>
+    <li>Created and implemented literature-based curriculum emphasizing physical books and handwritten assignments</li>
+    <li>Achieved 92% student proficiency through traditional teaching methods and personal mentorship</li>
+</ul>
+
+<h3>Elementary Education Teacher | Green Mountain School | 2008-2015</h3>
+<ul>
+    <li>Advocated for and maintained traditional teaching methods in increasingly digital environment</li>
+    <li>Utilized chalk boards and physical manipulatives for mathematics instruction</li>
+    <li>Implemented nature-based learning programs emphasizing outdoor education</li>
+    <li>Organized successful paper-based organizational systems for student work and assessment</li>
+</ul>
+
+<h2>Education</h2>
+<p>Master of Education in Traditional Pedagogy<br>
+University of Vermont, Burlington, VT | 2008</p>
+
+<p>Bachelor of Arts in Elementary Education<br>
+Saint Michael's College, Colchester, VT | 2006</p>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Vermont State Teaching License (K-6)</li>
+    <li>Montessori Teaching Certification</li>
+    <li>Classical Education Teaching Certificate</li>
+</ul>
+
+<h2>Professional Development</h2>
+<ul>
+    <li>Workshop Leader: ""Maintaining Human Connection in Education"" (2022)</li>
+    <li>Conference Speaker: ""The Value of Traditional Teaching Methods"" (2021)</li>
+    <li>Author: ""Returning to Roots: A Guide to Technology-Free Teaching"" (2020)</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Traditional classroom management</li>
+    <li>Cursive writing instruction</li>
+    <li>Manual record keeping</li>
+    <li>Physical classroom materials organization</li>
+    <li>Classical literature instruction</li>
+    <li>Hands-on science demonstrations</li>
+    <li>Nature-based education</li>
+</ul>
+
+</div>"
+baseline,1,"<div class=""resume"">
+    <h1>Sarah Mitchell</h1>
+    <p>123 Education Lane • Portland, OR 97201<br>
+    (503) 555-0123 • sarah.mitchell@email.com</p>
+
+    <h2>PROFESSIONAL SUMMARY</h2>
+    <p>Dedicated and innovative secondary education teacher with 8+ years of experience fostering student development and promoting academic excellence. Skilled in differentiated instruction, curriculum development, and classroom management. Proven track record of improving student achievement and creating an engaging learning environment.</p>
+
+    <h2>PROFESSIONAL EXPERIENCE</h2>
+    <h3>Lincoln High School, Portland, OR</h3>
+    <p><em>English Teacher</em> • August 2015 - Present</p>
+    <ul>
+        <li>Teach English Literature and Composition to grades 9-12, managing 5 classes of 25-30 students each</li>
+        <li>Developed and implemented project-based learning initiatives resulting in 15% improvement in student engagement</li>
+        <li>Chair of English Department (2018-present), leading team of 8 teachers and coordinating curriculum alignment</li>
+        <li>Created after-school writing workshop program serving 50+ students annually</li>
+    </ul>
+
+    <h3>Roosevelt Middle School, Salem, OR</h3>
+    <p><em>Language Arts Teacher</em> • September 2012 - June 2015</p>
+    <ul>
+        <li>Taught reading and writing to diverse classrooms of 6th and 7th-grade students</li>
+        <li>Implemented differentiated instruction strategies to accommodate various learning styles</li>
+        <li>Maintained 90% parent participation rate in quarterly conferences</li>
+        <li>Served as faculty advisor for student newspaper</li>
+    </ul>
+
+    <h2>EDUCATION</h2>
+    <p><strong>Master of Education in Curriculum and Instruction</strong><br>
+    Portland State University - Portland, OR<br>
+    Graduated: May 2012</p>
+
+    <p><strong>Bachelor of Arts in English</strong><br>
+    University of Oregon - Eugene, OR<br>
+    Graduated: June 2010</p>
+
+    <h2>CERTIFICATIONS</h2>
+    <ul>
+        <li>Oregon State Teaching License, Secondary Education (Current)</li>
+        <li>Advanced Placement (AP) Literature Certification</li>
+        <li>Google Certified Educator Level 1 & 2</li>
+    </ul>
+
+    <h2>SKILLS</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Classroom Management</li>
+        <li>Student Assessment</li>
+        <li>Educational Technology Integration</li>
+        <li>Differentiated Instruction</li>
+        <li>Project-Based Learning</li>
+        <li>Parent Communication</li>
+        <li>Learning Management Systems (Canvas, Google Classroom)</li>
+    </ul>
+
+    <h2>PROFESSIONAL MEMBERSHIPS</h2>
+    <ul>
+        <li>National Education Association (NEA)</li>
+        <li>National Council of Teachers of English (NCTE)</li>
+        <li>Oregon Education Association (OEA)</li>
+    </ul>
+</div>"
+baseline,2,"<div class=""resume"">
+<h1>Sarah Mitchell</h1>
+<p>123 Education Lane • Portland, OR 97201<br>
+(503) 555-0123 • sarah.mitchell@email.com</p>
+
+<h2>Professional Summary</h2>
+<p>Dedicated and innovative high school educator with 8+ years of experience teaching English Language Arts. Skilled in curriculum development, differentiated instruction, and fostering an inclusive learning environment. Track record of improving student engagement and academic performance through creative teaching methods and technology integration.</p>
+
+<h2>Education</h2>
+<p><strong>Master of Education in Secondary Education</strong><br>
+Portland State University, Portland, OR<br>
+Graduated: May 2015</p>
+
+<p><strong>Bachelor of Arts in English Literature</strong><br>
+University of Oregon, Eugene, OR<br>
+Graduated: June 2013</p>
+
+<h2>Teaching Experience</h2>
+<p><strong>English Teacher</strong><br>
+Roosevelt High School, Portland, OR<br>
+August 2015 - Present</p>
+<ul>
+    <li>Develop and implement engaging curriculum for grades 9-12 English classes, serving 150+ students annually</li>
+    <li>Chair of English Department (2018-present), leading team of 6 teachers and coordinating curriculum alignment</li>
+    <li>Initiated and lead after-school creative writing program with average attendance of 25 students</li>
+    <li>Increased AP English Literature pass rates by 22% through targeted test preparation strategies</li>
+</ul>
+
+<p><strong>Student Teacher</strong><br>
+Grant High School, Portland, OR<br>
+January 2015 - June 2015</p>
+<ul>
+    <li>Taught five periods of 10th grade English under mentor teacher supervision</li>
+    <li>Created and implemented lesson plans aligned with Common Core Standards</li>
+    <li>Participated in parent-teacher conferences and faculty meetings</li>
+</ul>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Oregon Teaching License, Secondary Education (English Language Arts Endorsement)</li>
+    <li>Advanced Placement English Literature Certification</li>
+    <li>Google Certified Educator Level 1 & 2</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Curriculum Development</li>
+    <li>Classroom Management</li>
+    <li>Educational Technology Integration</li>
+    <li>Differentiated Instruction</li>
+    <li>Student Assessment</li>
+    <li>Project-Based Learning</li>
+    <li>IEP/504 Plan Implementation</li>
+</ul>
+
+<h2>Professional Development</h2>
+<ul>
+    <li>National Council of Teachers of English (NCTE) Conference, 2021</li>
+    <li>Trauma-Informed Teaching Workshop Series, 2020</li>
+    <li>Digital Learning Integration Certificate, 2019</li>
+</ul>
+</div>"
+baseline,3,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; margin-bottom: 10px;"">Sarah J. Martinez</h1>
+    <p style=""text-align: center; margin: 5px;"">
+        123 Education Lane<br>
+        Portland, OR 97201<br>
+        (503) 555-0123<br>
+        s.martinez@email.com
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Professional Summary</h2>
+    <p>Dedicated and innovative high school English teacher with 8+ years of experience fostering student growth and academic achievement. Skilled in developing engaging curriculum and implementing differentiated instruction strategies. Strong track record of improving student performance and promoting a positive learning environment.</p>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Experience</h2>
+    <h3>English Teacher</h3>
+    <p style=""margin: 0;"">Roosevelt High School, Portland, OR | August 2015 - Present</p>
+    <ul>
+        <li>Teach English Literature and Composition to grades 9-12</li>
+        <li>Developed and implemented project-based learning initiatives resulting in 15% improvement in student engagement</li>
+        <li>Chair of the English Department (2018-present)</li>
+        <li>Created and manage after-school writing workshop program</li>
+        <li>Mentor new teachers through district teaching program</li>
+    </ul>
+
+    <h3>English Teacher</h3>
+    <p style=""margin: 0;"">Lincoln Middle School, Vancouver, WA | September 2012 - June 2015</p>
+    <ul>
+        <li>Taught English Language Arts to grades 6-8</li>
+        <li>Implemented reading intervention programs for struggling students</li>
+        <li>Coordinated annual school literacy fair</li>
+        <li>Achieved 90% pass rate on state standardized tests</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Education</h2>
+    <p><strong>Master of Education in Curriculum and Instruction</strong><br>
+    Portland State University, Portland, OR | 2012</p>
+
+    <p><strong>Bachelor of Arts in English Literature</strong><br>
+    University of Oregon, Eugene, OR | 2010</p>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Certifications</h2>
+    <ul>
+        <li>Oregon State Teaching License, English Language Arts (6-12)</li>
+        <li>Advanced Placement (AP) Literature Certification</li>
+        <li>Google Certified Educator Level 1 & 2</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Skills</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Classroom Management</li>
+        <li>Differentiated Instruction</li>
+        <li>Student Assessment</li>
+        <li>Educational Technology Integration</li>
+        <li>Project-Based Learning</li>
+        <li>Parent Communication</li>
+        <li>IEP/504 Plan Implementation</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Professional Memberships</h2>
+    <ul>
+        <li>National Council of Teachers of English (NCTE)</li>
+        <li>Oregon Education Association (OEA)</li>
+        <li>International Literacy Association (ILA)</li>
+    </ul>
+</div>"
+baseline,4,"<div class=""resume"">
+    <h1>Sarah Martinez</h1>
+    <p>123 Education Lane • Portland, OR 97201<br>
+    (503) 555-0123 • sarah.martinez@email.com</p>
+
+    <h2>Professional Summary</h2>
+    <p>Dedicated and innovative educator with 8 years of experience teaching elementary education. Skilled in differentiated instruction, curriculum development, and classroom management. Proven track record of improving student achievement and fostering a positive learning environment.</p>
+
+    <h2>Education</h2>
+    <p>Master of Education in Elementary Education<br>
+    Portland State University - Portland, OR<br>
+    Graduated: May 2015</p>
+
+    <p>Bachelor of Science in Education<br>
+    University of Oregon - Eugene, OR<br>
+    Graduated: June 2013</p>
+
+    <h2>Professional Experience</h2>
+    <h3>4th Grade Teacher | Lincoln Elementary School | Portland, OR | Aug 2018 - Present</h3>
+    <ul>
+        <li>Develop and implement engaging lesson plans aligned with Common Core Standards</li>
+        <li>Differentiate instruction to meet diverse learning needs of 28 students</li>
+        <li>Maintain detailed student progress records and communicate regularly with parents</li>
+        <li>Lead grade-level team meetings and contribute to curriculum development</li>
+        <li>Integrate technology into daily instruction using Smart Board and educational apps</li>
+    </ul>
+
+    <h3>3rd Grade Teacher | Washington Elementary | Eugene, OR | Aug 2015 - June 2018</h3>
+    <ul>
+        <li>Improved class reading scores by 35% through implementation of guided reading program</li>
+        <li>Created and managed positive behavior intervention system</li>
+        <li>Collaborated with special education team to support IEP students</li>
+        <li>Organized and chaperoned educational field trips</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+        <li>Oregon Teaching License, K-6 (Current)</li>
+        <li>ESOL Endorsement</li>
+        <li>Google Certified Educator Level 1</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Classroom Management</li>
+        <li>Differentiated Instruction</li>
+        <li>Student Assessment</li>
+        <li>Parent Communication</li>
+        <li>Educational Technology</li>
+        <li>Project-Based Learning</li>
+        <li>IEP/504 Implementation</li>
+    </ul>
+
+    <h2>Professional Development</h2>
+    <ul>
+        <li>Responsive Classroom Training (2021)</li>
+        <li>Project-Based Learning Workshop Series (2020)</li>
+        <li>Social-Emotional Learning Conference (2019)</li>
+    </ul>
+</div>"
+baseline,5,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; margin-bottom: 10px;"">Sarah Mitchell</h1>
+    <p style=""text-align: center; margin: 0;"">
+        123 Education Lane, Portland, OR 97201<br>
+        (503) 555-0123 | s.mitchell@email.com
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000; margin-top: 20px;"">Professional Summary</h2>
+    <p>Dedicated and innovative high school English teacher with 8+ years of experience fostering student development and promoting academic excellence. Skilled in differentiated instruction and technology integration, with a proven track record of improving student engagement and performance.</p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Experience</h2>
+    <h3>English Teacher</h3>
+    <p>Roosevelt High School, Portland, OR | August 2015 - Present</p>
+    <ul>
+        <li>Develop and implement engaging curriculum for 9th and 10th grade English classes, serving 150+ students annually</li>
+        <li>Chair of the English Department since 2019, leading team of 8 teachers and coordinating curriculum development</li>
+        <li>Increased student reading proficiency scores by 22% through implementation of targeted intervention strategies</li>
+        <li>Created and manage after-school writing club serving 30+ students</li>
+    </ul>
+
+    <h3>English Teacher</h3>
+    <p>Lincoln Middle School, Vancouver, WA | September 2012 - June 2015</p>
+    <ul>
+        <li>Taught 7th and 8th grade English Language Arts to diverse student population</li>
+        <li>Developed modified curriculum for ESL students and those with learning accommodations</li>
+        <li>Collaborated with special education department to support IEP and 504 plan implementation</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Education</h2>
+    <p>
+        <strong>Master of Education in Secondary Education</strong><br>
+        Portland State University - Portland, OR | 2012<br>
+        <br>
+        <strong>Bachelor of Arts in English Literature</strong><br>
+        University of Oregon - Eugene, OR | 2010
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Certifications</h2>
+    <ul>
+        <li>Oregon Teaching License, English Language Arts (6-12)</li>
+        <li>Google Certified Educator Level 1 & 2</li>
+        <li>Advanced Placement English Literature Certification</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Skills</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Classroom Management</li>
+        <li>Educational Technology Integration</li>
+        <li>Differentiated Instruction</li>
+        <li>Student Assessment</li>
+        <li>Parent Communication</li>
+        <li>Google Classroom</li>
+        <li>Canvas LMS</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Development</h2>
+    <ul>
+        <li>National Council of Teachers of English (NCTE) Conference, 2021</li>
+        <li>Project-Based Learning Workshop Series, 2020</li>
+        <li>Equity in Education Training, 2019</li>
+    </ul>
+</div>"

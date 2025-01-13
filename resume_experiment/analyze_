@@ -1,0 +1,53 @@
+#%%
+import os
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+
+# Get list of all CSV files in tech_level_comparisons directory
+instruction_types = ['pro_tech', 'anti_tech', 'balanced_tech', 'neutral_tech', 'baseline']
+# Load each file into a dictionary with filename as key
+mean_recommendations = np.zeros((len(instruction_types), len(instruction_types)))
+comparisons = {}
+for i, instruction_type_1 in enumerate(instruction_types):
+    for j, instruction_type_2 in enumerate(instruction_types):
+        filepath = os.path.join('tech_level_comparisons', f'{instruction_type_1}_vs_{instruction_type_2}.csv')
+        df = pd.read_csv(filepath)
+        mean_recommendations[i, j] = df.recommendation.mean()
+#%%
+# Create heatmap
+plt.figure(figsize=(10, 8))
+sns.heatmap(mean_recommendations, 
+            annot=True,  # Show numbers in cells
+            fmt='.2f',   # Format numbers to 2 decimal places
+            cmap='RdYlBu',  # Red-Yellow-Blue colormap
+            xticklabels=instruction_types,
+            yticklabels=instruction_types)
+
+plt.title('Mean Recommendations Heatmap (100 = prefer resume 2)')
+plt.xlabel('Resume 2')
+plt.ylabel('Resume 1')
+plt.tight_layout()
+plt.show()
+
+# %%
+# Create bar plot of mean recommendations
+plt.figure(figsize=(10, 6))
+sns.barplot(x=instruction_types, y=mean_recommendations.mean(axis=0))
+plt.title('Average Preference Score by Resume Type')
+plt.xlabel('Resume Type')
+plt.ylabel('Average Preference Score')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+# %%
+instruction_type_1 = 'pro_tech'
+instruction_type_2 = 'anti_tech'
+filepath = os.path.join('tech_level_comparisons', f'{instruction_type_1}_vs_{instruction_type_2}.csv')
+df = pd.read_csv(filepath)
+
+# %%
+print(df.result.iloc[1])

@@ -1,0 +1,1606 @@
+instruction_type,example_number,resume_html
+pro_tech,1,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah J. Anderson</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">
+        123 Education Drive • Portland, OR 97201<br>
+        (503) 555-0123 • s.anderson@email.com<br>
+        linkedin.com/in/sarahjanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Summary</h2>
+    <p>Forward-thinking educator with 8+ years of experience integrating cutting-edge technology into classroom instruction. Pioneered AI-enhanced learning programs resulting in 25% improvement in student engagement. Passionate about leveraging educational technology to create personalized learning experiences and prepare students for the digital future.</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & Science Teacher</h3>
+    <p>Roosevelt High School, Portland, OR • August 2019 - Present</p>
+    <ul>
+        <li>Implemented AI-powered adaptive learning platforms in science curriculum, resulting in 30% improvement in test scores</li>
+        <li>Created and manage virtual reality science lab experiences using ClassVR and Google Expeditions</li>
+        <li>Lead professional development workshops on educational technology integration for 45+ faculty members</li>
+        <li>Developed hybrid learning model incorporating AI chatbots for homework assistance</li>
+        <li>Maintain classroom YouTube channel with 5,000+ subscribers featuring interactive science lessons</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p>Lincoln Middle School, Vancouver, WA • September 2015 - July 2019</p>
+    <ul>
+        <li>Integrated Google Classroom and digital learning tools, achieving 95% student participation rate</li>
+        <li>Pioneered flipped classroom model using self-created video content and online assessments</li>
+        <li>Implemented gamification strategies through Kahoot! and Quizizz, increasing student engagement by 40%</li>
+        <li>Coordinated virtual field trips and remote expert presentations via video conferencing</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Education</h2>
+    <p><strong>Master of Education in Educational Technology</strong><br>
+    Oregon State University • 2018<br>
+    Thesis: ""Artificial Intelligence Applications in Secondary Education""</p>
+
+    <p><strong>Bachelor of Science in Biology, Minor in Computer Science</strong><br>
+    University of Oregon • 2015</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Blackboard</li>
+        <li>Educational AI Platforms: Century Tech, Third Space Learning, Knewton</li>
+        <li>Virtual/Augmented Reality: ClassVR, Google Expeditions, CoSpaces Edu</li>
+        <li>Programming: Python, HTML/CSS (basic), Scratch</li>
+        <li>Digital Content Creation: Adobe Creative Suite, Camtasia, Screencastify</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Certifications</h2>
+    <ul>
+        <li>Google Certified Educator Level 2 (2022)</li>
+        <li>Microsoft Innovative Educator Expert (2021)</li>
+        <li>Apple Teacher Certification (2020)</li>
+        <li>Oregon State Teaching License with Technology Endorsement</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""AI in the Classroom"" (2022)</li>
+        <li>EdTech Teacher Summit Speaker (2021)</li>
+        <li>Future of Education Technology Conference Attendee (2020)</li>
+    </ul>
+</div>"
+pro_tech,2,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah J. Anderson</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">
+        123 Education Drive • Portland, OR 97201<br>
+        (503) 555-0123 • s.anderson@email.com<br>
+        linkedin.com/in/sarahjanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Summary</h2>
+    <p>Forward-thinking educator with 8+ years of experience integrating cutting-edge technology into classroom instruction. Pioneered AI-enhanced learning programs resulting in 25% improvement in student engagement. Passionate about leveraging educational technology to create personalized learning experiences and prepare students for the digital future.</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & Science Teacher</h3>
+    <p>Roosevelt High School, Portland, OR • August 2019 - Present</p>
+    <ul>
+        <li>Implemented AI-powered adaptive learning platforms in science curriculum, resulting in 30% improvement in test scores</li>
+        <li>Created and manage virtual reality science lab experiences using ClassVR and Google Expeditions</li>
+        <li>Lead professional development workshops on educational technology integration for 45+ faculty members</li>
+        <li>Developed hybrid learning model incorporating AI chatbots for homework assistance</li>
+        <li>Maintain classroom YouTube channel with 5,000+ subscribers featuring interactive science lessons</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p>Lincoln Middle School, Vancouver, WA • September 2015 - July 2019</p>
+    <ul>
+        <li>Integrated Google Classroom and digital learning tools, achieving 95% student participation rate</li>
+        <li>Pioneered flipped classroom model using self-created video content and online assessments</li>
+        <li>Implemented gamification strategies through Kahoot! and Quizizz, increasing student engagement by 40%</li>
+        <li>Coordinated virtual field trips and remote expert presentations via video conferencing</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Education</h2>
+    <p><strong>Master of Education in Educational Technology</strong><br>
+    Oregon State University • 2018<br>
+    Thesis: ""Artificial Intelligence Applications in Secondary Education""</p>
+
+    <p><strong>Bachelor of Science in Biology, Minor in Computer Science</strong><br>
+    University of Oregon • 2015</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Blackboard</li>
+        <li>Educational AI Platforms: Century Tech, Third Space Learning, Knewton</li>
+        <li>Virtual/Augmented Reality: ClassVR, Google Expeditions, CoSpaces Edu</li>
+        <li>Programming: Python, HTML/CSS (basic), Scratch</li>
+        <li>Digital Content Creation: Adobe Creative Suite, Camtasia, Screencastify</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Certifications</h2>
+    <ul>
+        <li>Google Certified Educator Level 2 (2022)</li>
+        <li>Microsoft Innovative Educator Expert (2021)</li>
+        <li>Apple Teacher Certification (2020)</li>
+        <li>Oregon State Teaching License with Technology Endorsement</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""AI in the Classroom"" (2022)</li>
+        <li>EdTech Teacher Summit Speaker (2021)</li>
+        <li>Future of Education Technology Conference Attendee (2020)</li>
+    </ul>
+</div>"
+pro_tech,3,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah J. Anderson</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">
+        123 Education Drive • Portland, OR 97201<br>
+        (503) 555-0123 • s.anderson@email.com<br>
+        linkedin.com/in/sarahjanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Summary</h2>
+    <p>Forward-thinking educator with 8+ years of experience integrating cutting-edge technology into classroom instruction. Pioneered AI-enhanced learning programs resulting in 25% improvement in student engagement. Passionate about leveraging educational technology to create personalized learning experiences and prepare students for the digital future.</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & Science Teacher</h3>
+    <p>Roosevelt High School, Portland, OR • August 2019 - Present</p>
+    <ul>
+        <li>Implemented AI-powered adaptive learning platforms in science curriculum, resulting in 30% improvement in test scores</li>
+        <li>Created and manage virtual reality science lab experiences using ClassVR and Google Expeditions</li>
+        <li>Lead professional development workshops on educational technology integration for 45+ faculty members</li>
+        <li>Developed hybrid learning model incorporating AI chatbots for homework assistance</li>
+        <li>Maintain classroom YouTube channel with 5,000+ subscribers featuring interactive science lessons</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p>Lincoln Middle School, Vancouver, WA • September 2015 - July 2019</p>
+    <ul>
+        <li>Integrated Google Classroom and digital learning tools, achieving 95% student participation rate</li>
+        <li>Pioneered flipped classroom model using self-created video content and online assessments</li>
+        <li>Implemented gamification strategies through Kahoot! and Quizizz, increasing student engagement by 40%</li>
+        <li>Coordinated virtual field trips and remote expert presentations via video conferencing</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Education</h2>
+    <p><strong>Master of Education in Educational Technology</strong><br>
+    Oregon State University • 2018<br>
+    Thesis: ""Artificial Intelligence Applications in Secondary Education""</p>
+
+    <p><strong>Bachelor of Science in Biology, Minor in Computer Science</strong><br>
+    University of Oregon • 2015</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Blackboard</li>
+        <li>Educational AI Platforms: Century Tech, Third Space Learning, Knewton</li>
+        <li>Virtual/Augmented Reality: ClassVR, Google Expeditions, CoSpaces Edu</li>
+        <li>Programming: Python, HTML/CSS (basic), Scratch</li>
+        <li>Digital Content Creation: Adobe Creative Suite, Camtasia, Screencastify</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Certifications</h2>
+    <ul>
+        <li>Google Certified Educator Level 2 (2022)</li>
+        <li>Microsoft Innovative Educator Expert (2021)</li>
+        <li>Apple Teacher Certification (2020)</li>
+        <li>Oregon State Teaching License with Technology Endorsement</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""AI in the Classroom"" (2022)</li>
+        <li>EdTech Teacher Summit Speaker (2021)</li>
+        <li>Future of Education Technology Conference Attendee (2020)</li>
+    </ul>
+</div>"
+pro_tech,4,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah J. Anderson</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">
+        123 Education Drive • Portland, OR 97201<br>
+        (503) 555-0123 • s.anderson@email.com<br>
+        linkedin.com/in/sarahjanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Summary</h2>
+    <p>Forward-thinking educator with 8+ years of experience integrating cutting-edge technology into classroom instruction. Pioneered AI-enhanced learning programs resulting in 25% improvement in student engagement. Passionate about leveraging educational technology to create personalized learning experiences and prepare students for the digital future.</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & Science Teacher</h3>
+    <p>Roosevelt High School, Portland, OR • August 2019 - Present</p>
+    <ul>
+        <li>Implemented AI-powered adaptive learning platforms in science curriculum, resulting in 30% improvement in test scores</li>
+        <li>Created and manage virtual reality science lab experiences using ClassVR and Google Expeditions</li>
+        <li>Lead professional development workshops on educational technology integration for 45+ faculty members</li>
+        <li>Developed hybrid learning model incorporating AI chatbots for homework assistance</li>
+        <li>Maintain classroom YouTube channel with 5,000+ subscribers featuring interactive science lessons</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p>Lincoln Middle School, Vancouver, WA • September 2015 - July 2019</p>
+    <ul>
+        <li>Integrated Google Classroom and digital learning tools, achieving 95% student participation rate</li>
+        <li>Pioneered flipped classroom model using self-created video content and online assessments</li>
+        <li>Implemented gamification strategies through Kahoot! and Quizizz, increasing student engagement by 40%</li>
+        <li>Coordinated virtual field trips and remote expert presentations via video conferencing</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Education</h2>
+    <p><strong>Master of Education in Educational Technology</strong><br>
+    Oregon State University • 2018<br>
+    Thesis: ""Artificial Intelligence Applications in Secondary Education""</p>
+
+    <p><strong>Bachelor of Science in Biology, Minor in Computer Science</strong><br>
+    University of Oregon • 2015</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Blackboard</li>
+        <li>Educational AI Platforms: Century Tech, Third Space Learning, Knewton</li>
+        <li>Virtual/Augmented Reality: ClassVR, Google Expeditions, CoSpaces Edu</li>
+        <li>Programming: Python, HTML/CSS (basic), Scratch</li>
+        <li>Digital Content Creation: Adobe Creative Suite, Camtasia, Screencastify</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Certifications</h2>
+    <ul>
+        <li>Google Certified Educator Level 2 (2022)</li>
+        <li>Microsoft Innovative Educator Expert (2021)</li>
+        <li>Apple Teacher Certification (2020)</li>
+        <li>Oregon State Teaching License with Technology Endorsement</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""AI in the Classroom"" (2022)</li>
+        <li>EdTech Teacher Summit Speaker (2021)</li>
+        <li>Future of Education Technology Conference Attendee (2020)</li>
+    </ul>
+</div>"
+pro_tech,5,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah J. Anderson</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">
+        123 Education Drive • Portland, OR 97201<br>
+        (503) 555-0123 • s.anderson@email.com<br>
+        linkedin.com/in/sarahjanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Summary</h2>
+    <p>Forward-thinking educator with 8+ years of experience integrating cutting-edge technology into classroom instruction. Pioneered AI-enhanced learning programs resulting in 25% improvement in student engagement. Passionate about leveraging educational technology to create personalized learning experiences and prepare students for the digital future.</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & Science Teacher</h3>
+    <p>Roosevelt High School, Portland, OR • August 2019 - Present</p>
+    <ul>
+        <li>Implemented AI-powered adaptive learning platforms in science curriculum, resulting in 30% improvement in test scores</li>
+        <li>Created and manage virtual reality science lab experiences using ClassVR and Google Expeditions</li>
+        <li>Lead professional development workshops on educational technology integration for 45+ faculty members</li>
+        <li>Developed hybrid learning model incorporating AI chatbots for homework assistance</li>
+        <li>Maintain classroom YouTube channel with 5,000+ subscribers featuring interactive science lessons</li>
+    </ul>
+
+    <h3>Science Teacher</h3>
+    <p>Lincoln Middle School, Vancouver, WA • September 2015 - July 2019</p>
+    <ul>
+        <li>Integrated Google Classroom and digital learning tools, achieving 95% student participation rate</li>
+        <li>Pioneered flipped classroom model using self-created video content and online assessments</li>
+        <li>Implemented gamification strategies through Kahoot! and Quizizz, increasing student engagement by 40%</li>
+        <li>Coordinated virtual field trips and remote expert presentations via video conferencing</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Education</h2>
+    <p><strong>Master of Education in Educational Technology</strong><br>
+    Oregon State University • 2018<br>
+    Thesis: ""Artificial Intelligence Applications in Secondary Education""</p>
+
+    <p><strong>Bachelor of Science in Biology, Minor in Computer Science</strong><br>
+    University of Oregon • 2015</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Canvas, Google Classroom, Blackboard</li>
+        <li>Educational AI Platforms: Century Tech, Third Space Learning, Knewton</li>
+        <li>Virtual/Augmented Reality: ClassVR, Google Expeditions, CoSpaces Edu</li>
+        <li>Programming: Python, HTML/CSS (basic), Scratch</li>
+        <li>Digital Content Creation: Adobe Creative Suite, Camtasia, Screencastify</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Certifications</h2>
+    <ul>
+        <li>Google Certified Educator Level 2 (2022)</li>
+        <li>Microsoft Innovative Educator Expert (2021)</li>
+        <li>Apple Teacher Certification (2020)</li>
+        <li>Oregon State Teaching License with Technology Endorsement</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #3498db;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""AI in the Classroom"" (2022)</li>
+        <li>EdTech Teacher Summit Speaker (2021)</li>
+        <li>Future of Education Technology Conference Attendee (2020)</li>
+    </ul>
+</div>"
+balanced_tech,1,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah Anderson</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">
+        123 Education Drive • Boston, MA 02108<br>
+        (617) 555-0123 • sarah.anderson@email.com<br>
+        LinkedIn: linkedin.com/in/sarahanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Summary</h2>
+    <p>Innovative educator with 8+ years of experience integrating cutting-edge technology and AI-powered tools to create engaging learning environments. Demonstrated success in implementing adaptive learning platforms and digital assessment tools to personalize student learning experiences and improve academic outcomes.</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & English Teacher</h3>
+    <p>Brookline High School, Brookline, MA • August 2019 - Present</p>
+    <ul>
+        <li>Pioneered the implementation of AI-powered writing assistance tools, resulting in a 25% improvement in student writing scores</li>
+        <li>Developed and led professional development workshops on educational technology for 50+ faculty members</li>
+        <li>Created a blended learning curriculum utilizing Google Classroom, Kahoot, and other digital tools</li>
+        <li>Implemented personalized learning pathways using adaptive learning platforms, increasing student engagement by 40%</li>
+    </ul>
+
+    <h3>English Teacher</h3>
+    <p>Cambridge Public Schools, Cambridge, MA • September 2015 - June 2019</p>
+    <ul>
+        <li>Integrated virtual reality applications to enhance literature study units, reaching 150+ students annually</li>
+        <li>Designed and implemented flipped classroom model using video content and online discussions</li>
+        <li>Created digital portfolios for student assessment, reducing grading time by 30%</li>
+        <li>Collaborated with IT department to pilot new educational software and provide feedback</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Education</h2>
+    <p>Master of Education in Educational Technology<br>
+    Boston University, Boston, MA • 2015</p>
+    <p>Bachelor of Arts in English Literature<br>
+    University of Massachusetts, Amherst, MA • 2013</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Google Classroom, Canvas, Blackboard</li>
+        <li>Educational Software: Kahoot, Nearpod, Pear Deck, Flipgrid</li>
+        <li>AI Tools: GPT-based writing assistants, AI-powered assessment tools</li>
+        <li>Virtual/Augmented Reality Applications in Education</li>
+        <li>Data Analytics and Student Progress Tracking Tools</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Certifications</h2>
+    <ul>
+        <li>Massachusetts Teaching License in Secondary English (Professional)</li>
+        <li>Google Certified Educator Level 2</li>
+        <li>Microsoft Innovative Educator Expert</li>
+        <li>Apple Teacher Certification</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""Integrating AI in the English Classroom"" (2023)</li>
+        <li>EdTech Teacher Summit Participant (2022)</li>
+        <li>Future of Education Technology Conference Attendee (2021)</li>
+    </ul>
+</div>"
+balanced_tech,2,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah Anderson</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">
+        123 Education Drive • Boston, MA 02108<br>
+        (617) 555-0123 • sarah.anderson@email.com<br>
+        LinkedIn: linkedin.com/in/sarahanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Summary</h2>
+    <p>Innovative educator with 8+ years of experience integrating cutting-edge technology and AI-powered tools to create engaging learning environments. Demonstrated success in implementing adaptive learning platforms and digital assessment tools to personalize student learning experiences and improve academic outcomes.</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & English Teacher</h3>
+    <p>Brookline High School, Brookline, MA • August 2019 - Present</p>
+    <ul>
+        <li>Pioneered the implementation of AI-powered writing assistance tools, resulting in a 25% improvement in student writing scores</li>
+        <li>Developed and led professional development workshops on educational technology for 50+ faculty members</li>
+        <li>Created a blended learning curriculum utilizing Google Classroom, Kahoot, and other digital tools</li>
+        <li>Implemented personalized learning pathways using adaptive learning platforms, increasing student engagement by 40%</li>
+    </ul>
+
+    <h3>English Teacher</h3>
+    <p>Cambridge Public Schools, Cambridge, MA • September 2015 - June 2019</p>
+    <ul>
+        <li>Integrated virtual reality applications to enhance literature study units, reaching 150+ students annually</li>
+        <li>Designed and implemented flipped classroom model using video content and online discussions</li>
+        <li>Created digital portfolios for student assessment, reducing grading time by 30%</li>
+        <li>Collaborated with IT department to pilot new educational software and provide feedback</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Education</h2>
+    <p>Master of Education in Educational Technology<br>
+    Boston University, Boston, MA • 2015</p>
+    <p>Bachelor of Arts in English Literature<br>
+    University of Massachusetts, Amherst, MA • 2013</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Google Classroom, Canvas, Blackboard</li>
+        <li>Educational Software: Kahoot, Nearpod, Pear Deck, Flipgrid</li>
+        <li>AI Tools: GPT-based writing assistants, AI-powered assessment tools</li>
+        <li>Virtual/Augmented Reality Applications in Education</li>
+        <li>Data Analytics and Student Progress Tracking Tools</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Certifications</h2>
+    <ul>
+        <li>Massachusetts Teaching License in Secondary English (Professional)</li>
+        <li>Google Certified Educator Level 2</li>
+        <li>Microsoft Innovative Educator Expert</li>
+        <li>Apple Teacher Certification</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""Integrating AI in the English Classroom"" (2023)</li>
+        <li>EdTech Teacher Summit Participant (2022)</li>
+        <li>Future of Education Technology Conference Attendee (2021)</li>
+    </ul>
+</div>"
+balanced_tech,3,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah Anderson</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">
+        123 Education Drive • Boston, MA 02108<br>
+        (617) 555-0123 • sarah.anderson@email.com<br>
+        LinkedIn: linkedin.com/in/sarahanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Summary</h2>
+    <p>Innovative educator with 8+ years of experience integrating cutting-edge technology and AI-powered tools to create engaging learning environments. Demonstrated success in implementing adaptive learning platforms and digital assessment tools to personalize student learning experiences and improve academic outcomes.</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & English Teacher</h3>
+    <p>Brookline High School, Brookline, MA • August 2019 - Present</p>
+    <ul>
+        <li>Pioneered the implementation of AI-powered writing assistance tools, resulting in a 25% improvement in student writing scores</li>
+        <li>Developed and led professional development workshops on educational technology for 50+ faculty members</li>
+        <li>Created a blended learning curriculum utilizing Google Classroom, Kahoot, and other digital tools</li>
+        <li>Implemented personalized learning pathways using adaptive learning platforms, increasing student engagement by 40%</li>
+    </ul>
+
+    <h3>English Teacher</h3>
+    <p>Cambridge Public Schools, Cambridge, MA • September 2015 - June 2019</p>
+    <ul>
+        <li>Integrated virtual reality applications to enhance literature study units, reaching 150+ students annually</li>
+        <li>Designed and implemented flipped classroom model using video content and online discussions</li>
+        <li>Created digital portfolios for student assessment, reducing grading time by 30%</li>
+        <li>Collaborated with IT department to pilot new educational software and provide feedback</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Education</h2>
+    <p>Master of Education in Educational Technology<br>
+    Boston University, Boston, MA • 2015</p>
+    <p>Bachelor of Arts in English Literature<br>
+    University of Massachusetts, Amherst, MA • 2013</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Google Classroom, Canvas, Blackboard</li>
+        <li>Educational Software: Kahoot, Nearpod, Pear Deck, Flipgrid</li>
+        <li>AI Tools: GPT-based writing assistants, AI-powered assessment tools</li>
+        <li>Virtual/Augmented Reality Applications in Education</li>
+        <li>Data Analytics and Student Progress Tracking Tools</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Certifications</h2>
+    <ul>
+        <li>Massachusetts Teaching License in Secondary English (Professional)</li>
+        <li>Google Certified Educator Level 2</li>
+        <li>Microsoft Innovative Educator Expert</li>
+        <li>Apple Teacher Certification</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""Integrating AI in the English Classroom"" (2023)</li>
+        <li>EdTech Teacher Summit Participant (2022)</li>
+        <li>Future of Education Technology Conference Attendee (2021)</li>
+    </ul>
+</div>"
+balanced_tech,4,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah Anderson</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">
+        123 Education Drive • Boston, MA 02108<br>
+        (617) 555-0123 • sarah.anderson@email.com<br>
+        LinkedIn: linkedin.com/in/sarahanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Summary</h2>
+    <p>Innovative educator with 8+ years of experience integrating cutting-edge technology and AI-powered tools to create engaging learning environments. Demonstrated success in implementing adaptive learning platforms and digital assessment tools to personalize student learning experiences and improve academic outcomes.</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & English Teacher</h3>
+    <p>Brookline High School, Brookline, MA • August 2019 - Present</p>
+    <ul>
+        <li>Pioneered the implementation of AI-powered writing assistance tools, resulting in a 25% improvement in student writing scores</li>
+        <li>Developed and led professional development workshops on educational technology for 50+ faculty members</li>
+        <li>Created a blended learning curriculum utilizing Google Classroom, Kahoot, and other digital tools</li>
+        <li>Implemented personalized learning pathways using adaptive learning platforms, increasing student engagement by 40%</li>
+    </ul>
+
+    <h3>English Teacher</h3>
+    <p>Cambridge Public Schools, Cambridge, MA • September 2015 - June 2019</p>
+    <ul>
+        <li>Integrated virtual reality applications to enhance literature study units, reaching 150+ students annually</li>
+        <li>Designed and implemented flipped classroom model using video content and online discussions</li>
+        <li>Created digital portfolios for student assessment, reducing grading time by 30%</li>
+        <li>Collaborated with IT department to pilot new educational software and provide feedback</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Education</h2>
+    <p>Master of Education in Educational Technology<br>
+    Boston University, Boston, MA • 2015</p>
+    <p>Bachelor of Arts in English Literature<br>
+    University of Massachusetts, Amherst, MA • 2013</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Google Classroom, Canvas, Blackboard</li>
+        <li>Educational Software: Kahoot, Nearpod, Pear Deck, Flipgrid</li>
+        <li>AI Tools: GPT-based writing assistants, AI-powered assessment tools</li>
+        <li>Virtual/Augmented Reality Applications in Education</li>
+        <li>Data Analytics and Student Progress Tracking Tools</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Certifications</h2>
+    <ul>
+        <li>Massachusetts Teaching License in Secondary English (Professional)</li>
+        <li>Google Certified Educator Level 2</li>
+        <li>Microsoft Innovative Educator Expert</li>
+        <li>Apple Teacher Certification</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""Integrating AI in the English Classroom"" (2023)</li>
+        <li>EdTech Teacher Summit Participant (2022)</li>
+        <li>Future of Education Technology Conference Attendee (2021)</li>
+    </ul>
+</div>"
+balanced_tech,5,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; color: #2c3e50;"">Sarah Anderson</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">
+        123 Education Drive • Boston, MA 02108<br>
+        (617) 555-0123 • sarah.anderson@email.com<br>
+        LinkedIn: linkedin.com/in/sarahanderson
+    </p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Summary</h2>
+    <p>Innovative educator with 8+ years of experience integrating cutting-edge technology and AI-powered tools to create engaging learning environments. Demonstrated success in implementing adaptive learning platforms and digital assessment tools to personalize student learning experiences and improve academic outcomes.</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Experience</h2>
+    <h3>Technology Integration Specialist & English Teacher</h3>
+    <p>Brookline High School, Brookline, MA • August 2019 - Present</p>
+    <ul>
+        <li>Pioneered the implementation of AI-powered writing assistance tools, resulting in a 25% improvement in student writing scores</li>
+        <li>Developed and led professional development workshops on educational technology for 50+ faculty members</li>
+        <li>Created a blended learning curriculum utilizing Google Classroom, Kahoot, and other digital tools</li>
+        <li>Implemented personalized learning pathways using adaptive learning platforms, increasing student engagement by 40%</li>
+    </ul>
+
+    <h3>English Teacher</h3>
+    <p>Cambridge Public Schools, Cambridge, MA • September 2015 - June 2019</p>
+    <ul>
+        <li>Integrated virtual reality applications to enhance literature study units, reaching 150+ students annually</li>
+        <li>Designed and implemented flipped classroom model using video content and online discussions</li>
+        <li>Created digital portfolios for student assessment, reducing grading time by 30%</li>
+        <li>Collaborated with IT department to pilot new educational software and provide feedback</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Education</h2>
+    <p>Master of Education in Educational Technology<br>
+    Boston University, Boston, MA • 2015</p>
+    <p>Bachelor of Arts in English Literature<br>
+    University of Massachusetts, Amherst, MA • 2013</p>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Technical Skills</h2>
+    <ul>
+        <li>Learning Management Systems: Google Classroom, Canvas, Blackboard</li>
+        <li>Educational Software: Kahoot, Nearpod, Pear Deck, Flipgrid</li>
+        <li>AI Tools: GPT-based writing assistants, AI-powered assessment tools</li>
+        <li>Virtual/Augmented Reality Applications in Education</li>
+        <li>Data Analytics and Student Progress Tracking Tools</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Certifications</h2>
+    <ul>
+        <li>Massachusetts Teaching License in Secondary English (Professional)</li>
+        <li>Google Certified Educator Level 2</li>
+        <li>Microsoft Innovative Educator Expert</li>
+        <li>Apple Teacher Certification</li>
+    </ul>
+
+    <h2 style=""color: #2c3e50; border-bottom: 2px solid #2c3e50;"">Professional Development</h2>
+    <ul>
+        <li>ISTE Conference Presenter: ""Integrating AI in the English Classroom"" (2023)</li>
+        <li>EdTech Teacher Summit Participant (2022)</li>
+        <li>Future of Education Technology Conference Attendee (2021)</li>
+    </ul>
+</div>"
+neutral_tech,1,"<div class=""resume"">
+<h1>Sarah Mitchell</h1>
+<p>1234 Oakwood Drive • Portland, OR 97201<br>
+(503) 555-0123 • sarah.mitchell@email.com</p>
+
+<h2>Professional Summary</h2>
+<p>Dedicated high school educator with 12 years of experience creating engaging learning environments that blend traditional teaching methods with purposeful technology integration. Committed to using educational tools and resources that best serve student learning outcomes, whether digital or conventional.</p>
+
+<h2>Experience</h2>
+<h3>Lead English Teacher</h3>
+<p>Roosevelt High School, Portland, OR • August 2015 - Present</p>
+<ul>
+    <li>Design and deliver student-centered curriculum incorporating both traditional instruction and digital tools where beneficial to learning outcomes</li>
+    <li>Utilize Google Classroom for assignment management while maintaining paper-based options for students who work better with physical materials</li>
+    <li>Lead department initiatives in balanced literacy incorporating both print and digital resources</li>
+    <li>Mentor new teachers in effective classroom management and selective technology integration</li>
+</ul>
+
+<h3>English Teacher</h3>
+<p>Riverside Middle School, Vancouver, WA • September 2011 - June 2015</p>
+<ul>
+    <li>Developed hybrid learning approaches combining traditional teaching methods with targeted digital resources</li>
+    <li>Maintained high student engagement through varied instructional strategies, including both hands-on activities and appropriate educational technology</li>
+    <li>Created assessment systems using both traditional and digital tools to track student progress</li>
+</ul>
+
+<h2>Education</h2>
+<h3>Master of Education in Curriculum and Instruction</h3>
+<p>Portland State University • 2011</p>
+
+<h3>Bachelor of Arts in English Literature</h3>
+<p>University of Oregon • 2009</p>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Oregon Teaching License, English Language Arts (6-12)</li>
+    <li>Google Certified Educator Level 1</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Curriculum Development</li>
+    <li>Classroom Management</li>
+    <li>Student Assessment</li>
+    <li>Differentiated Instruction</li>
+    <li>Basic Educational Technology</li>
+    <li>Project-Based Learning</li>
+</ul>
+
+<h2>Professional Development</h2>
+<ul>
+    <li>Balanced Technology Integration Workshop, Portland Public Schools, 2022</li>
+    <li>Traditional Teaching Methods in Modern Classrooms Conference, 2021</li>
+    <li>Effective Learning Strategies Symposium, 2020</li>
+</ul>
+</div>"
+neutral_tech,2,"<div class=""resume"">
+<h1>Sarah Mitchell</h1>
+<p>1234 Oakwood Drive • Portland, OR 97201<br>
+(503) 555-0123 • sarah.mitchell@email.com</p>
+
+<h2>Professional Summary</h2>
+<p>Dedicated high school educator with 12 years of experience creating engaging learning environments that blend traditional teaching methods with purposeful technology integration. Committed to using educational tools and resources that best serve student learning outcomes, whether digital or conventional.</p>
+
+<h2>Experience</h2>
+<h3>Lead English Teacher</h3>
+<p>Roosevelt High School, Portland, OR • August 2015 - Present</p>
+<ul>
+    <li>Design and deliver student-centered curriculum incorporating both traditional instruction and digital tools where beneficial to learning outcomes</li>
+    <li>Utilize Google Classroom for assignment management while maintaining paper-based options for students who work better with physical materials</li>
+    <li>Lead department initiatives in balanced literacy incorporating both print and digital resources</li>
+    <li>Mentor new teachers in effective classroom management and selective technology integration</li>
+</ul>
+
+<h3>English Teacher</h3>
+<p>Riverside Middle School, Vancouver, WA • September 2011 - June 2015</p>
+<ul>
+    <li>Developed hybrid learning approaches combining traditional teaching methods with targeted digital resources</li>
+    <li>Maintained high student engagement through varied instructional strategies, including both hands-on activities and appropriate educational technology</li>
+    <li>Created assessment systems using both traditional and digital tools to track student progress</li>
+</ul>
+
+<h2>Education</h2>
+<h3>Master of Education in Curriculum and Instruction</h3>
+<p>Portland State University • 2011</p>
+
+<h3>Bachelor of Arts in English Literature</h3>
+<p>University of Oregon • 2009</p>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Oregon Teaching License, English Language Arts (6-12)</li>
+    <li>Google Certified Educator Level 1</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Curriculum Development</li>
+    <li>Classroom Management</li>
+    <li>Student Assessment</li>
+    <li>Differentiated Instruction</li>
+    <li>Basic Educational Technology</li>
+    <li>Project-Based Learning</li>
+</ul>
+
+<h2>Professional Development</h2>
+<ul>
+    <li>Balanced Technology Integration Workshop, Portland Public Schools, 2022</li>
+    <li>Traditional Teaching Methods in Modern Classrooms Conference, 2021</li>
+    <li>Effective Learning Strategies Symposium, 2020</li>
+</ul>
+</div>"
+neutral_tech,3,"<div class=""resume"">
+<h1>Sarah Mitchell</h1>
+<p>1234 Oakwood Drive • Portland, OR 97201<br>
+(503) 555-0123 • sarah.mitchell@email.com</p>
+
+<h2>Professional Summary</h2>
+<p>Dedicated high school educator with 12 years of experience creating engaging learning environments that blend traditional teaching methods with purposeful technology integration. Committed to using educational tools and resources that best serve student learning outcomes, whether digital or conventional.</p>
+
+<h2>Experience</h2>
+<h3>Lead English Teacher</h3>
+<p>Roosevelt High School, Portland, OR • August 2015 - Present</p>
+<ul>
+    <li>Design and deliver student-centered curriculum incorporating both traditional instruction and digital tools where beneficial to learning outcomes</li>
+    <li>Utilize Google Classroom for assignment management while maintaining paper-based options for students who work better with physical materials</li>
+    <li>Lead department initiatives in balanced literacy incorporating both print and digital resources</li>
+    <li>Mentor new teachers in effective classroom management and selective technology integration</li>
+</ul>
+
+<h3>English Teacher</h3>
+<p>Riverside Middle School, Vancouver, WA • September 2011 - June 2015</p>
+<ul>
+    <li>Developed hybrid learning approaches combining traditional teaching methods with targeted digital resources</li>
+    <li>Maintained high student engagement through varied instructional strategies, including both hands-on activities and appropriate educational technology</li>
+    <li>Created assessment systems using both traditional and digital tools to track student progress</li>
+</ul>
+
+<h2>Education</h2>
+<h3>Master of Education in Curriculum and Instruction</h3>
+<p>Portland State University • 2011</p>
+
+<h3>Bachelor of Arts in English Literature</h3>
+<p>University of Oregon • 2009</p>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Oregon Teaching License, English Language Arts (6-12)</li>
+    <li>Google Certified Educator Level 1</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Curriculum Development</li>
+    <li>Classroom Management</li>
+    <li>Student Assessment</li>
+    <li>Differentiated Instruction</li>
+    <li>Basic Educational Technology</li>
+    <li>Project-Based Learning</li>
+</ul>
+
+<h2>Professional Development</h2>
+<ul>
+    <li>Balanced Technology Integration Workshop, Portland Public Schools, 2022</li>
+    <li>Traditional Teaching Methods in Modern Classrooms Conference, 2021</li>
+    <li>Effective Learning Strategies Symposium, 2020</li>
+</ul>
+</div>"
+neutral_tech,4,"<div class=""resume"">
+<h1>Sarah Mitchell</h1>
+<p>1234 Oakwood Drive • Portland, OR 97201<br>
+(503) 555-0123 • sarah.mitchell@email.com</p>
+
+<h2>Professional Summary</h2>
+<p>Dedicated high school educator with 12 years of experience creating engaging learning environments that blend traditional teaching methods with purposeful technology integration. Committed to using educational tools and resources that best serve student learning outcomes, whether digital or conventional.</p>
+
+<h2>Experience</h2>
+<h3>Lead English Teacher</h3>
+<p>Roosevelt High School, Portland, OR • August 2015 - Present</p>
+<ul>
+    <li>Design and deliver student-centered curriculum incorporating both traditional instruction and digital tools where beneficial to learning outcomes</li>
+    <li>Utilize Google Classroom for assignment management while maintaining paper-based options for students who work better with physical materials</li>
+    <li>Lead department initiatives in balanced literacy incorporating both print and digital resources</li>
+    <li>Mentor new teachers in effective classroom management and selective technology integration</li>
+</ul>
+
+<h3>English Teacher</h3>
+<p>Riverside Middle School, Vancouver, WA • September 2011 - June 2015</p>
+<ul>
+    <li>Developed hybrid learning approaches combining traditional teaching methods with targeted digital resources</li>
+    <li>Maintained high student engagement through varied instructional strategies, including both hands-on activities and appropriate educational technology</li>
+    <li>Created assessment systems using both traditional and digital tools to track student progress</li>
+</ul>
+
+<h2>Education</h2>
+<h3>Master of Education in Curriculum and Instruction</h3>
+<p>Portland State University • 2011</p>
+
+<h3>Bachelor of Arts in English Literature</h3>
+<p>University of Oregon • 2009</p>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Oregon Teaching License, English Language Arts (6-12)</li>
+    <li>Google Certified Educator Level 1</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Curriculum Development</li>
+    <li>Classroom Management</li>
+    <li>Student Assessment</li>
+    <li>Differentiated Instruction</li>
+    <li>Basic Educational Technology</li>
+    <li>Project-Based Learning</li>
+</ul>
+
+<h2>Professional Development</h2>
+<ul>
+    <li>Balanced Technology Integration Workshop, Portland Public Schools, 2022</li>
+    <li>Traditional Teaching Methods in Modern Classrooms Conference, 2021</li>
+    <li>Effective Learning Strategies Symposium, 2020</li>
+</ul>
+</div>"
+neutral_tech,5,"<div class=""resume"">
+<h1>Sarah Mitchell</h1>
+<p>1234 Oakwood Drive • Portland, OR 97201<br>
+(503) 555-0123 • sarah.mitchell@email.com</p>
+
+<h2>Professional Summary</h2>
+<p>Dedicated high school educator with 12 years of experience creating engaging learning environments that blend traditional teaching methods with purposeful technology integration. Committed to using educational tools and resources that best serve student learning outcomes, whether digital or conventional.</p>
+
+<h2>Experience</h2>
+<h3>Lead English Teacher</h3>
+<p>Roosevelt High School, Portland, OR • August 2015 - Present</p>
+<ul>
+    <li>Design and deliver student-centered curriculum incorporating both traditional instruction and digital tools where beneficial to learning outcomes</li>
+    <li>Utilize Google Classroom for assignment management while maintaining paper-based options for students who work better with physical materials</li>
+    <li>Lead department initiatives in balanced literacy incorporating both print and digital resources</li>
+    <li>Mentor new teachers in effective classroom management and selective technology integration</li>
+</ul>
+
+<h3>English Teacher</h3>
+<p>Riverside Middle School, Vancouver, WA • September 2011 - June 2015</p>
+<ul>
+    <li>Developed hybrid learning approaches combining traditional teaching methods with targeted digital resources</li>
+    <li>Maintained high student engagement through varied instructional strategies, including both hands-on activities and appropriate educational technology</li>
+    <li>Created assessment systems using both traditional and digital tools to track student progress</li>
+</ul>
+
+<h2>Education</h2>
+<h3>Master of Education in Curriculum and Instruction</h3>
+<p>Portland State University • 2011</p>
+
+<h3>Bachelor of Arts in English Literature</h3>
+<p>University of Oregon • 2009</p>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Oregon Teaching License, English Language Arts (6-12)</li>
+    <li>Google Certified Educator Level 1</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Curriculum Development</li>
+    <li>Classroom Management</li>
+    <li>Student Assessment</li>
+    <li>Differentiated Instruction</li>
+    <li>Basic Educational Technology</li>
+    <li>Project-Based Learning</li>
+</ul>
+
+<h2>Professional Development</h2>
+<ul>
+    <li>Balanced Technology Integration Workshop, Portland Public Schools, 2022</li>
+    <li>Traditional Teaching Methods in Modern Classrooms Conference, 2021</li>
+    <li>Effective Learning Strategies Symposium, 2020</li>
+</ul>
+</div>"
+anti_tech,1,"<div class=""resume"">
+    <div class=""header"">
+        <h1>Margaret J. Blackwood</h1>
+        <p>4523 Oak Lane Drive • Springfield, MA 01103</p>
+        <p>(413) 555-0187 • m.blackwood@mailservice.com</p>
+    </div>
+
+    <div class=""summary"">
+        <h2>Professional Summary</h2>
+        <p>Dedicated educator with 15+ years of experience fostering authentic human connections and traditional learning methods in the classroom. Committed to preserving time-tested teaching approaches that emphasize direct teacher-student interaction, handwritten work, and technology-free engagement.</p>
+    </div>
+
+    <div class=""experience"">
+        <h2>Professional Experience</h2>
+        
+        <h3>Lead English Teacher</h3>
+        <p>Springfield Classical Academy • Springfield, MA • 2015-Present</p>
+        <ul>
+            <li>Maintain a completely screen-free classroom environment focusing on traditional books, handwriting, and face-to-face discussions</li>
+            <li>Developed paper-based organizational systems for tracking student progress and maintaining academic records</li>
+            <li>Created and implemented literature-focused curriculum emphasizing classic texts and analytical thinking</li>
+            <li>Achieved 92% student proficiency in writing through intensive personal mentoring and daily handwritten exercises</li>
+            <li>Lead advocate for maintaining traditional teaching methods and reducing screen time across all grade levels</li>
+        </ul>
+
+        <h3>English Teacher</h3>
+        <p>St. Mary's Private School • Worcester, MA • 2008-2015</p>
+        <ul>
+            <li>Pioneered ""Unplug to Learn"" initiative encouraging students to engage with physical books and handwritten assignments</li>
+            <li>Maintained classroom excellence through traditional pedagogical methods and personal attention</li>
+            <li>Organized successful student theatrical productions and poetry recitation events</li>
+            <li>Developed comprehensive grammar and composition curriculum using traditional textbooks and worksheets</li>
+        </ul>
+    </div>
+
+    <div class=""education"">
+        <h2>Education</h2>
+        <p><strong>Master of Arts in Traditional Pedagogy</strong><br>
+        Boston College • Boston, MA • 2008</p>
+        
+        <p><strong>Bachelor of Arts in English Literature</strong><br>
+        Smith College • Northampton, MA • 2006</p>
+    </div>
+
+    <div class=""certifications"">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Massachusetts State Teaching License (English, Grades 6-12)</li>
+            <li>Classical Education Teaching Certification</li>
+            <li>Traditional Pedagogy Specialist Certification</li>
+        </ul>
+    </div>
+
+    <div class=""skills"">
+        <h2>Specialized Skills</h2>
+        <ul>
+            <li>Traditional classroom management</li>
+            <li>Classic literature instruction</li>
+            <li>Paper-based record keeping</li>
+            <li>Cursive writing instruction</li>
+            <li>Traditional assessment methods</li>
+            <li>Literary analysis</li>
+            <li>Public speaking instruction</li>
+        </ul>
+    </div>
+
+    <div class=""activities"">
+        <h2>Professional Activities</h2>
+        <ul>
+            <li>Founder, Traditional Teaching Methods Society of Western Massachusetts</li>
+            <li>Regular contributor to ""Classical Educator Quarterly"" journal</li>
+            <li>Speaker at Traditional Education Conference (2019, 2021)</li>
+        </ul>
+    </div>
+</div>"
+anti_tech,2,"<div class=""resume"">
+    <div class=""header"">
+        <h1>Margaret J. Blackwood</h1>
+        <p>4523 Oak Lane Drive • Springfield, MA 01103</p>
+        <p>(413) 555-0187 • m.blackwood@mailservice.com</p>
+    </div>
+
+    <div class=""summary"">
+        <h2>Professional Summary</h2>
+        <p>Dedicated educator with 15+ years of experience fostering authentic human connections and traditional learning methods in the classroom. Committed to preserving time-tested teaching approaches that emphasize direct teacher-student interaction, handwritten work, and technology-free engagement.</p>
+    </div>
+
+    <div class=""experience"">
+        <h2>Professional Experience</h2>
+        
+        <h3>Lead English Teacher</h3>
+        <p>Springfield Classical Academy • Springfield, MA • 2015-Present</p>
+        <ul>
+            <li>Maintain a completely screen-free classroom environment focusing on traditional books, handwriting, and face-to-face discussions</li>
+            <li>Developed paper-based organizational systems for tracking student progress and maintaining academic records</li>
+            <li>Created and implemented literature-focused curriculum emphasizing classic texts and analytical thinking</li>
+            <li>Achieved 92% student proficiency in writing through intensive personal mentoring and daily handwritten exercises</li>
+            <li>Lead advocate for maintaining traditional teaching methods and reducing screen time across all grade levels</li>
+        </ul>
+
+        <h3>English Teacher</h3>
+        <p>St. Mary's Private School • Worcester, MA • 2008-2015</p>
+        <ul>
+            <li>Pioneered ""Unplug to Learn"" initiative encouraging students to engage with physical books and handwritten assignments</li>
+            <li>Maintained classroom excellence through traditional pedagogical methods and personal attention</li>
+            <li>Organized successful student theatrical productions and poetry recitation events</li>
+            <li>Developed comprehensive grammar and composition curriculum using traditional textbooks and worksheets</li>
+        </ul>
+    </div>
+
+    <div class=""education"">
+        <h2>Education</h2>
+        <p><strong>Master of Arts in Traditional Pedagogy</strong><br>
+        Boston College • Boston, MA • 2008</p>
+        
+        <p><strong>Bachelor of Arts in English Literature</strong><br>
+        Smith College • Northampton, MA • 2006</p>
+    </div>
+
+    <div class=""certifications"">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Massachusetts State Teaching License (English, Grades 6-12)</li>
+            <li>Classical Education Teaching Certification</li>
+            <li>Traditional Pedagogy Specialist Certification</li>
+        </ul>
+    </div>
+
+    <div class=""skills"">
+        <h2>Specialized Skills</h2>
+        <ul>
+            <li>Traditional classroom management</li>
+            <li>Classic literature instruction</li>
+            <li>Paper-based record keeping</li>
+            <li>Cursive writing instruction</li>
+            <li>Traditional assessment methods</li>
+            <li>Literary analysis</li>
+            <li>Public speaking instruction</li>
+        </ul>
+    </div>
+
+    <div class=""activities"">
+        <h2>Professional Activities</h2>
+        <ul>
+            <li>Founder, Traditional Teaching Methods Society of Western Massachusetts</li>
+            <li>Regular contributor to ""Classical Educator Quarterly"" journal</li>
+            <li>Speaker at Traditional Education Conference (2019, 2021)</li>
+        </ul>
+    </div>
+</div>"
+anti_tech,3,"<div class=""resume"">
+    <div class=""header"">
+        <h1>Margaret J. Blackwood</h1>
+        <p>4523 Oak Lane Drive • Springfield, MA 01103</p>
+        <p>(413) 555-0187 • m.blackwood@mailservice.com</p>
+    </div>
+
+    <div class=""summary"">
+        <h2>Professional Summary</h2>
+        <p>Dedicated educator with 15+ years of experience fostering authentic human connections and traditional learning methods in the classroom. Committed to preserving time-tested teaching approaches that emphasize direct teacher-student interaction, handwritten work, and technology-free engagement.</p>
+    </div>
+
+    <div class=""experience"">
+        <h2>Professional Experience</h2>
+        
+        <h3>Lead English Teacher</h3>
+        <p>Springfield Classical Academy • Springfield, MA • 2015-Present</p>
+        <ul>
+            <li>Maintain a completely screen-free classroom environment focusing on traditional books, handwriting, and face-to-face discussions</li>
+            <li>Developed paper-based organizational systems for tracking student progress and maintaining academic records</li>
+            <li>Created and implemented literature-focused curriculum emphasizing classic texts and analytical thinking</li>
+            <li>Achieved 92% student proficiency in writing through intensive personal mentoring and daily handwritten exercises</li>
+            <li>Lead advocate for maintaining traditional teaching methods and reducing screen time across all grade levels</li>
+        </ul>
+
+        <h3>English Teacher</h3>
+        <p>St. Mary's Private School • Worcester, MA • 2008-2015</p>
+        <ul>
+            <li>Pioneered ""Unplug to Learn"" initiative encouraging students to engage with physical books and handwritten assignments</li>
+            <li>Maintained classroom excellence through traditional pedagogical methods and personal attention</li>
+            <li>Organized successful student theatrical productions and poetry recitation events</li>
+            <li>Developed comprehensive grammar and composition curriculum using traditional textbooks and worksheets</li>
+        </ul>
+    </div>
+
+    <div class=""education"">
+        <h2>Education</h2>
+        <p><strong>Master of Arts in Traditional Pedagogy</strong><br>
+        Boston College • Boston, MA • 2008</p>
+        
+        <p><strong>Bachelor of Arts in English Literature</strong><br>
+        Smith College • Northampton, MA • 2006</p>
+    </div>
+
+    <div class=""certifications"">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Massachusetts State Teaching License (English, Grades 6-12)</li>
+            <li>Classical Education Teaching Certification</li>
+            <li>Traditional Pedagogy Specialist Certification</li>
+        </ul>
+    </div>
+
+    <div class=""skills"">
+        <h2>Specialized Skills</h2>
+        <ul>
+            <li>Traditional classroom management</li>
+            <li>Classic literature instruction</li>
+            <li>Paper-based record keeping</li>
+            <li>Cursive writing instruction</li>
+            <li>Traditional assessment methods</li>
+            <li>Literary analysis</li>
+            <li>Public speaking instruction</li>
+        </ul>
+    </div>
+
+    <div class=""activities"">
+        <h2>Professional Activities</h2>
+        <ul>
+            <li>Founder, Traditional Teaching Methods Society of Western Massachusetts</li>
+            <li>Regular contributor to ""Classical Educator Quarterly"" journal</li>
+            <li>Speaker at Traditional Education Conference (2019, 2021)</li>
+        </ul>
+    </div>
+</div>"
+anti_tech,4,"<div class=""resume"">
+    <div class=""header"">
+        <h1>Margaret J. Blackwood</h1>
+        <p>4523 Oak Lane Drive • Springfield, MA 01103</p>
+        <p>(413) 555-0187 • m.blackwood@mailservice.com</p>
+    </div>
+
+    <div class=""summary"">
+        <h2>Professional Summary</h2>
+        <p>Dedicated educator with 15+ years of experience fostering authentic human connections and traditional learning methods in the classroom. Committed to preserving time-tested teaching approaches that emphasize direct teacher-student interaction, handwritten work, and technology-free engagement.</p>
+    </div>
+
+    <div class=""experience"">
+        <h2>Professional Experience</h2>
+        
+        <h3>Lead English Teacher</h3>
+        <p>Springfield Classical Academy • Springfield, MA • 2015-Present</p>
+        <ul>
+            <li>Maintain a completely screen-free classroom environment focusing on traditional books, handwriting, and face-to-face discussions</li>
+            <li>Developed paper-based organizational systems for tracking student progress and maintaining academic records</li>
+            <li>Created and implemented literature-focused curriculum emphasizing classic texts and analytical thinking</li>
+            <li>Achieved 92% student proficiency in writing through intensive personal mentoring and daily handwritten exercises</li>
+            <li>Lead advocate for maintaining traditional teaching methods and reducing screen time across all grade levels</li>
+        </ul>
+
+        <h3>English Teacher</h3>
+        <p>St. Mary's Private School • Worcester, MA • 2008-2015</p>
+        <ul>
+            <li>Pioneered ""Unplug to Learn"" initiative encouraging students to engage with physical books and handwritten assignments</li>
+            <li>Maintained classroom excellence through traditional pedagogical methods and personal attention</li>
+            <li>Organized successful student theatrical productions and poetry recitation events</li>
+            <li>Developed comprehensive grammar and composition curriculum using traditional textbooks and worksheets</li>
+        </ul>
+    </div>
+
+    <div class=""education"">
+        <h2>Education</h2>
+        <p><strong>Master of Arts in Traditional Pedagogy</strong><br>
+        Boston College • Boston, MA • 2008</p>
+        
+        <p><strong>Bachelor of Arts in English Literature</strong><br>
+        Smith College • Northampton, MA • 2006</p>
+    </div>
+
+    <div class=""certifications"">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Massachusetts State Teaching License (English, Grades 6-12)</li>
+            <li>Classical Education Teaching Certification</li>
+            <li>Traditional Pedagogy Specialist Certification</li>
+        </ul>
+    </div>
+
+    <div class=""skills"">
+        <h2>Specialized Skills</h2>
+        <ul>
+            <li>Traditional classroom management</li>
+            <li>Classic literature instruction</li>
+            <li>Paper-based record keeping</li>
+            <li>Cursive writing instruction</li>
+            <li>Traditional assessment methods</li>
+            <li>Literary analysis</li>
+            <li>Public speaking instruction</li>
+        </ul>
+    </div>
+
+    <div class=""activities"">
+        <h2>Professional Activities</h2>
+        <ul>
+            <li>Founder, Traditional Teaching Methods Society of Western Massachusetts</li>
+            <li>Regular contributor to ""Classical Educator Quarterly"" journal</li>
+            <li>Speaker at Traditional Education Conference (2019, 2021)</li>
+        </ul>
+    </div>
+</div>"
+anti_tech,5,"<div class=""resume"">
+    <div class=""header"">
+        <h1>Margaret J. Blackwood</h1>
+        <p>4523 Oak Lane Drive • Springfield, MA 01103</p>
+        <p>(413) 555-0187 • m.blackwood@mailservice.com</p>
+    </div>
+
+    <div class=""summary"">
+        <h2>Professional Summary</h2>
+        <p>Dedicated educator with 15+ years of experience fostering authentic human connections and traditional learning methods in the classroom. Committed to preserving time-tested teaching approaches that emphasize direct teacher-student interaction, handwritten work, and technology-free engagement.</p>
+    </div>
+
+    <div class=""experience"">
+        <h2>Professional Experience</h2>
+        
+        <h3>Lead English Teacher</h3>
+        <p>Springfield Classical Academy • Springfield, MA • 2015-Present</p>
+        <ul>
+            <li>Maintain a completely screen-free classroom environment focusing on traditional books, handwriting, and face-to-face discussions</li>
+            <li>Developed paper-based organizational systems for tracking student progress and maintaining academic records</li>
+            <li>Created and implemented literature-focused curriculum emphasizing classic texts and analytical thinking</li>
+            <li>Achieved 92% student proficiency in writing through intensive personal mentoring and daily handwritten exercises</li>
+            <li>Lead advocate for maintaining traditional teaching methods and reducing screen time across all grade levels</li>
+        </ul>
+
+        <h3>English Teacher</h3>
+        <p>St. Mary's Private School • Worcester, MA • 2008-2015</p>
+        <ul>
+            <li>Pioneered ""Unplug to Learn"" initiative encouraging students to engage with physical books and handwritten assignments</li>
+            <li>Maintained classroom excellence through traditional pedagogical methods and personal attention</li>
+            <li>Organized successful student theatrical productions and poetry recitation events</li>
+            <li>Developed comprehensive grammar and composition curriculum using traditional textbooks and worksheets</li>
+        </ul>
+    </div>
+
+    <div class=""education"">
+        <h2>Education</h2>
+        <p><strong>Master of Arts in Traditional Pedagogy</strong><br>
+        Boston College • Boston, MA • 2008</p>
+        
+        <p><strong>Bachelor of Arts in English Literature</strong><br>
+        Smith College • Northampton, MA • 2006</p>
+    </div>
+
+    <div class=""certifications"">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Massachusetts State Teaching License (English, Grades 6-12)</li>
+            <li>Classical Education Teaching Certification</li>
+            <li>Traditional Pedagogy Specialist Certification</li>
+        </ul>
+    </div>
+
+    <div class=""skills"">
+        <h2>Specialized Skills</h2>
+        <ul>
+            <li>Traditional classroom management</li>
+            <li>Classic literature instruction</li>
+            <li>Paper-based record keeping</li>
+            <li>Cursive writing instruction</li>
+            <li>Traditional assessment methods</li>
+            <li>Literary analysis</li>
+            <li>Public speaking instruction</li>
+        </ul>
+    </div>
+
+    <div class=""activities"">
+        <h2>Professional Activities</h2>
+        <ul>
+            <li>Founder, Traditional Teaching Methods Society of Western Massachusetts</li>
+            <li>Regular contributor to ""Classical Educator Quarterly"" journal</li>
+            <li>Speaker at Traditional Education Conference (2019, 2021)</li>
+        </ul>
+    </div>
+</div>"
+baseline,1,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; margin-bottom: 10px;"">Sarah Anderson</h1>
+    <div style=""text-align: center; margin-bottom: 20px;"">
+        123 Education Lane • Boston, MA 02108<br>
+        (617) 555-0123 • sarah.anderson@email.com
+    </div>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Summary</h2>
+    <p>Dedicated and innovative high school English teacher with 8+ years of experience fostering student engagement and academic excellence. Skilled in developing creative curriculum, implementing technology-based learning solutions, and providing individualized student support. Proven track record of improving student achievement and creating an inclusive classroom environment.</p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Education</h2>
+    <p>
+        <strong>Master of Education in Secondary Education</strong><br>
+        Boston University, Boston, MA | May 2015<br>
+        <br>
+        <strong>Bachelor of Arts in English Literature</strong><br>
+        University of Massachusetts, Amherst, MA | May 2013
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Experience</h2>
+    <p>
+        <strong>English Teacher</strong> | Boston Public High School, Boston, MA<br>
+        September 2015 - Present
+        <ul>
+            <li>Design and implement engaging lesson plans for grades 9-12 aligned with Common Core Standards</li>
+            <li>Lead AP English Literature courses with 85% of students achieving scores of 3 or higher</li>
+            <li>Coordinate after-school writing workshop program serving 50+ students annually</li>
+            <li>Mentor new teachers through district-wide professional development program</li>
+            <li>Integrate digital learning tools and multimedia resources to enhance student engagement</li>
+        </ul>
+    </p>
+
+    <p>
+        <strong>Student Teacher</strong> | Cambridge High School, Cambridge, MA<br>
+        January 2015 - May 2015
+        <ul>
+            <li>Assisted lead teacher in developing and delivering lessons for sophomore English classes</li>
+            <li>Created differentiated learning materials for students with diverse learning needs</li>
+            <li>Conducted small group tutorials and provided one-on-one student support</li>
+        </ul>
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Certifications</h2>
+    <ul>
+        <li>Massachusetts Teaching License, Secondary English (Grade 8-12)</li>
+        <li>Advanced Placement English Literature Certification</li>
+        <li>Google Certified Educator Level 1 & 2</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Skills</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Classroom Management</li>
+        <li>Differentiated Instruction</li>
+        <li>Educational Technology Integration</li>
+        <li>Student Assessment & Evaluation</li>
+        <li>Parent-Teacher Communication</li>
+        <li>Special Education Experience</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Affiliations</h2>
+    <ul>
+        <li>National Council of Teachers of English (NCTE)</li>
+        <li>Massachusetts Teachers Association (MTA)</li>
+        <li>International Literacy Association (ILA)</li>
+    </ul>
+</div>"
+baseline,2,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; margin-bottom: 10px;"">Sarah Anderson</h1>
+    <div style=""text-align: center; margin-bottom: 20px;"">
+        123 Education Lane • Boston, MA 02108<br>
+        (617) 555-0123 • sarah.anderson@email.com
+    </div>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Summary</h2>
+    <p>Dedicated and innovative high school English teacher with 8+ years of experience fostering student engagement and academic excellence. Skilled in developing creative curriculum, implementing technology-based learning solutions, and providing individualized student support. Proven track record of improving student achievement and creating an inclusive classroom environment.</p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Education</h2>
+    <p>
+        <strong>Master of Education in Secondary Education</strong><br>
+        Boston University, Boston, MA | May 2015<br>
+        <br>
+        <strong>Bachelor of Arts in English Literature</strong><br>
+        University of Massachusetts, Amherst, MA | May 2013
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Experience</h2>
+    <p>
+        <strong>English Teacher</strong> | Boston Public High School, Boston, MA<br>
+        September 2015 - Present
+        <ul>
+            <li>Design and implement engaging lesson plans for grades 9-12 aligned with Common Core Standards</li>
+            <li>Lead AP English Literature courses with 85% of students achieving scores of 3 or higher</li>
+            <li>Coordinate after-school writing workshop program serving 50+ students annually</li>
+            <li>Mentor new teachers through district-wide professional development program</li>
+            <li>Integrate digital learning tools and multimedia resources to enhance student engagement</li>
+        </ul>
+    </p>
+
+    <p>
+        <strong>Student Teacher</strong> | Cambridge High School, Cambridge, MA<br>
+        January 2015 - May 2015
+        <ul>
+            <li>Assisted lead teacher in developing and delivering lessons for sophomore English classes</li>
+            <li>Created differentiated learning materials for students with diverse learning needs</li>
+            <li>Conducted small group tutorials and provided one-on-one student support</li>
+        </ul>
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Certifications</h2>
+    <ul>
+        <li>Massachusetts Teaching License, Secondary English (Grade 8-12)</li>
+        <li>Advanced Placement English Literature Certification</li>
+        <li>Google Certified Educator Level 1 & 2</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Skills</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Classroom Management</li>
+        <li>Differentiated Instruction</li>
+        <li>Educational Technology Integration</li>
+        <li>Student Assessment & Evaluation</li>
+        <li>Parent-Teacher Communication</li>
+        <li>Special Education Experience</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Affiliations</h2>
+    <ul>
+        <li>National Council of Teachers of English (NCTE)</li>
+        <li>Massachusetts Teachers Association (MTA)</li>
+        <li>International Literacy Association (ILA)</li>
+    </ul>
+</div>"
+baseline,3,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; margin-bottom: 10px;"">Sarah Anderson</h1>
+    <div style=""text-align: center; margin-bottom: 20px;"">
+        123 Education Lane • Boston, MA 02108<br>
+        (617) 555-0123 • sarah.anderson@email.com
+    </div>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Summary</h2>
+    <p>Dedicated and innovative high school English teacher with 8+ years of experience fostering student engagement and academic excellence. Skilled in developing creative curriculum, implementing technology-based learning solutions, and providing individualized student support. Proven track record of improving student achievement and creating an inclusive classroom environment.</p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Education</h2>
+    <p>
+        <strong>Master of Education in Secondary Education</strong><br>
+        Boston University, Boston, MA | May 2015<br>
+        <br>
+        <strong>Bachelor of Arts in English Literature</strong><br>
+        University of Massachusetts, Amherst, MA | May 2013
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Experience</h2>
+    <p>
+        <strong>English Teacher</strong> | Boston Public High School, Boston, MA<br>
+        September 2015 - Present
+        <ul>
+            <li>Design and implement engaging lesson plans for grades 9-12 aligned with Common Core Standards</li>
+            <li>Lead AP English Literature courses with 85% of students achieving scores of 3 or higher</li>
+            <li>Coordinate after-school writing workshop program serving 50+ students annually</li>
+            <li>Mentor new teachers through district-wide professional development program</li>
+            <li>Integrate digital learning tools and multimedia resources to enhance student engagement</li>
+        </ul>
+    </p>
+
+    <p>
+        <strong>Student Teacher</strong> | Cambridge High School, Cambridge, MA<br>
+        January 2015 - May 2015
+        <ul>
+            <li>Assisted lead teacher in developing and delivering lessons for sophomore English classes</li>
+            <li>Created differentiated learning materials for students with diverse learning needs</li>
+            <li>Conducted small group tutorials and provided one-on-one student support</li>
+        </ul>
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Certifications</h2>
+    <ul>
+        <li>Massachusetts Teaching License, Secondary English (Grade 8-12)</li>
+        <li>Advanced Placement English Literature Certification</li>
+        <li>Google Certified Educator Level 1 & 2</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Skills</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Classroom Management</li>
+        <li>Differentiated Instruction</li>
+        <li>Educational Technology Integration</li>
+        <li>Student Assessment & Evaluation</li>
+        <li>Parent-Teacher Communication</li>
+        <li>Special Education Experience</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Affiliations</h2>
+    <ul>
+        <li>National Council of Teachers of English (NCTE)</li>
+        <li>Massachusetts Teachers Association (MTA)</li>
+        <li>International Literacy Association (ILA)</li>
+    </ul>
+</div>"
+baseline,4,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; margin-bottom: 10px;"">Sarah Anderson</h1>
+    <div style=""text-align: center; margin-bottom: 20px;"">
+        123 Education Lane • Boston, MA 02108<br>
+        (617) 555-0123 • sarah.anderson@email.com
+    </div>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Summary</h2>
+    <p>Dedicated and innovative high school English teacher with 8+ years of experience fostering student engagement and academic excellence. Skilled in developing creative curriculum, implementing technology-based learning solutions, and providing individualized student support. Proven track record of improving student achievement and creating an inclusive classroom environment.</p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Education</h2>
+    <p>
+        <strong>Master of Education in Secondary Education</strong><br>
+        Boston University, Boston, MA | May 2015<br>
+        <br>
+        <strong>Bachelor of Arts in English Literature</strong><br>
+        University of Massachusetts, Amherst, MA | May 2013
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Experience</h2>
+    <p>
+        <strong>English Teacher</strong> | Boston Public High School, Boston, MA<br>
+        September 2015 - Present
+        <ul>
+            <li>Design and implement engaging lesson plans for grades 9-12 aligned with Common Core Standards</li>
+            <li>Lead AP English Literature courses with 85% of students achieving scores of 3 or higher</li>
+            <li>Coordinate after-school writing workshop program serving 50+ students annually</li>
+            <li>Mentor new teachers through district-wide professional development program</li>
+            <li>Integrate digital learning tools and multimedia resources to enhance student engagement</li>
+        </ul>
+    </p>
+
+    <p>
+        <strong>Student Teacher</strong> | Cambridge High School, Cambridge, MA<br>
+        January 2015 - May 2015
+        <ul>
+            <li>Assisted lead teacher in developing and delivering lessons for sophomore English classes</li>
+            <li>Created differentiated learning materials for students with diverse learning needs</li>
+            <li>Conducted small group tutorials and provided one-on-one student support</li>
+        </ul>
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Certifications</h2>
+    <ul>
+        <li>Massachusetts Teaching License, Secondary English (Grade 8-12)</li>
+        <li>Advanced Placement English Literature Certification</li>
+        <li>Google Certified Educator Level 1 & 2</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Skills</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Classroom Management</li>
+        <li>Differentiated Instruction</li>
+        <li>Educational Technology Integration</li>
+        <li>Student Assessment & Evaluation</li>
+        <li>Parent-Teacher Communication</li>
+        <li>Special Education Experience</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Affiliations</h2>
+    <ul>
+        <li>National Council of Teachers of English (NCTE)</li>
+        <li>Massachusetts Teachers Association (MTA)</li>
+        <li>International Literacy Association (ILA)</li>
+    </ul>
+</div>"
+baseline,5,"<div style=""font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""text-align: center; margin-bottom: 10px;"">Sarah Anderson</h1>
+    <div style=""text-align: center; margin-bottom: 20px;"">
+        123 Education Lane • Boston, MA 02108<br>
+        (617) 555-0123 • sarah.anderson@email.com
+    </div>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Summary</h2>
+    <p>Dedicated and innovative high school English teacher with 8+ years of experience fostering student engagement and academic excellence. Skilled in developing creative curriculum, implementing technology-based learning solutions, and providing individualized student support. Proven track record of improving student achievement and creating an inclusive classroom environment.</p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Education</h2>
+    <p>
+        <strong>Master of Education in Secondary Education</strong><br>
+        Boston University, Boston, MA | May 2015<br>
+        <br>
+        <strong>Bachelor of Arts in English Literature</strong><br>
+        University of Massachusetts, Amherst, MA | May 2013
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Experience</h2>
+    <p>
+        <strong>English Teacher</strong> | Boston Public High School, Boston, MA<br>
+        September 2015 - Present
+        <ul>
+            <li>Design and implement engaging lesson plans for grades 9-12 aligned with Common Core Standards</li>
+            <li>Lead AP English Literature courses with 85% of students achieving scores of 3 or higher</li>
+            <li>Coordinate after-school writing workshop program serving 50+ students annually</li>
+            <li>Mentor new teachers through district-wide professional development program</li>
+            <li>Integrate digital learning tools and multimedia resources to enhance student engagement</li>
+        </ul>
+    </p>
+
+    <p>
+        <strong>Student Teacher</strong> | Cambridge High School, Cambridge, MA<br>
+        January 2015 - May 2015
+        <ul>
+            <li>Assisted lead teacher in developing and delivering lessons for sophomore English classes</li>
+            <li>Created differentiated learning materials for students with diverse learning needs</li>
+            <li>Conducted small group tutorials and provided one-on-one student support</li>
+        </ul>
+    </p>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Certifications</h2>
+    <ul>
+        <li>Massachusetts Teaching License, Secondary English (Grade 8-12)</li>
+        <li>Advanced Placement English Literature Certification</li>
+        <li>Google Certified Educator Level 1 & 2</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Skills</h2>
+    <ul>
+        <li>Curriculum Development</li>
+        <li>Classroom Management</li>
+        <li>Differentiated Instruction</li>
+        <li>Educational Technology Integration</li>
+        <li>Student Assessment & Evaluation</li>
+        <li>Parent-Teacher Communication</li>
+        <li>Special Education Experience</li>
+    </ul>
+
+    <h2 style=""border-bottom: 2px solid #000;"">Professional Affiliations</h2>
+    <ul>
+        <li>National Council of Teachers of English (NCTE)</li>
+        <li>Massachusetts Teachers Association (MTA)</li>
+        <li>International Literacy Association (ILA)</li>
+    </ul>
+</div>"
